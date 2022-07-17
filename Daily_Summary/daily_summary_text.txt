@@ -1,0 +1,10 @@
+﻿16.07.2022 – Cumartesi 
+
+1-  Model Tunning / Model Dogrulama yapildi. (Udemy/Vahit/Bolum 10/ Ders 267)
+
+    • Model Dogrulama =  cros_val_score ile yapilir.
+    • Cv=10  veya cv= 5 secilir genelde.
+    • Test ve Train icnde uygulanir.
+    • Scoring = r2 veya neg_mean_squared_error (mse) ile yaplir
+    • np.sqrt ile sonunda mean() ile score ortalamasi gozukur
+
