@@ -1,4 +1,4 @@
-﻿16.07.2022 – Cumartesi 
+16.07.2022 – Cumartesi 
 
 1-  Model Tunning / Model Dogrulama yapildi. (Udemy/Vahit/Bolum 10/ Ders 267)
 
@@ -7,4 +7,8 @@
     • Test ve Train icnde uygulanir.
     • Scoring = r2 veya neg_mean_squared_error (mse) ile yaplir
     • np.sqrt ile sonunda mean() ile score ortalamasi gozukur
+
+17.07.2022 - Pazar 
+
+1 - Pcr 
 
