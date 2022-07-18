@@ -1,4 +1,4 @@
-16.07.2022 – Cumartesi 
+﻿16.07.2022 – Cumartesi 
 
 1-  Model Tunning / Model Dogrulama yapildi. (Udemy/Vahit/Bolum 10/ Ders 267)
 
@@ -8,7 +8,23 @@
     • Scoring = r2 veya neg_mean_squared_error (mse) ile yaplir
     • np.sqrt ile sonunda mean() ile score ortalamasi gozukur
 
-17.07.2022 - Pazar 
+17.07.2022 – Pazar
 
-1 - Pcr 
+1-  PCR (Temel Bilesen Regresyonu, Principal Component Reg.)
+(Udemy/Vahit/Bolum 10/ Ders 268-69-70)
+       
+    1. PCR Teori goruldu.
+	Cok Gozlemi az gozlem ile aciklamak islemi.(263 gozlem 19 gozlem ile ifade edildi)
+    2. PCR kodlari yazildi
+    3. Hitters csv file yuklendi.
+    4. Get dummies yapildi, dummy tuzaguna dusmemek icin drop yapildi
+    5. Bagimsiz degiskenler olusturuldu. (concat islemi yapildi)
+    6. Bagilmli degisken (salary) olustruldu
+    7. X_train , y_train yapildi.
+    8. X_reduced_train olusturudu = X_train scale edildi (olceklendirme yapildi)
+    9. En onemli yer PCR icin LinearReg. Kuruldu
+       lm = LinearRegression()
+       pcr_model = lm.fit(X_reduced_train, y_train)
+    10. PCR Tahmin Yapildi.
+
 
