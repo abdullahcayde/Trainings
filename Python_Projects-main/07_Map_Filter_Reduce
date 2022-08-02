@@ -1,0 +1,27 @@
+# Map Func.
+
+list1 = [1,2,3,4,5]
+list(map(lambda x : x*10, list1)) 
+#OutPut [10, 20, 30, 40, 50]
+
+#Filter 
+
+list2 = [1,2,3,4,5]
+list(filter(lambda x : x % 2 == 0, list2))
+#OutPut [2, 4]
+
+#Reduce Fonk.
+
+from functools import reduce
+
+list3 = [1,2,3,4,5]
+reduce(lambda a,b : a + b, list3)
+#OutPut 15
+
+#Map and Reduce together
+
+from functools import reduce
+list4 = ["Data","Analyst","Education"]
+reduce(lambda a,b: a+b, list(map(lambda x: x[0], list4))) 
+#OutPut 'DAE'
+

@@ -1,0 +1,13 @@
+#01_Bir Dosyanin Nerde Oldugunu Bulmak
+import os
+#full path.
+dir_path = os. path. dirname(os. path. realpath('__File_Name__.csv'))
+print(dir_path)
+#OutPut : '/Users/macbook/Desktop//.../.../...'
+
+#02_Hangi Dizinde oldugunu bulmak
+import os
+#current dir.
+cwd = os. getcwd()
+print(cwd)
+#OutPut : '/Users/macbook/Desktop//.../.../...'

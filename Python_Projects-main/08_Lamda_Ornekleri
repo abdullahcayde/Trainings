@@ -1,0 +1,33 @@
+#Ornek 1
+def funksiyon(numara):
+    return lambda x: x * numara
+ 
+ funksiyon(5)
+ OutPut : <function __main__.funksiyon.<locals>.<lambda>(x)>
+ 
+ funksiyon(5)(2)
+ OutPut : 10
+
+#Ornek 02
+list1 = [2, 4, 6, 8, 9, 10, 12, 13]
+
+final_list = list(filter(lambda x : (x > 7) , list1))
+print(final_list)
+#OutPut : [8, 9, 10, 12, 13]
+
+#Ornek 03
+list1 = [2, 4, 6, 8, 9, 10, 12, 13]
+
+final_list = list(filter(lambda x : (x > 7) and (x < 13), list1))
+print(final_list)
+#OutPut : [8, 9, 10, 12]
+
+#Ornek 04
+
+square = lambda x : x*x if (x<5) else None
+print(square(3), square(6))
+#OutPut : 9 None
+
+square_cube = lambda x : x*x if (x<9) else x*x*x
+print(square_cube (6), square_cube (10))
+#OutPut : 36 1000

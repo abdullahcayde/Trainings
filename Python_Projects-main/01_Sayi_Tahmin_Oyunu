@@ -1,0 +1,42 @@
+import random
+import time
+
+print('''
+Bilgisayar 0 - 1000 arasından rastgele bir sayı seçiyor.
+Sizde tahminlerde bulunarak o sayıyı bulmaya çalışıyorsunuz.
+Tahmin hakkınız 10 dur.
+''')
+sayirandom=random.randint(0,100)  
+giris_hakki= 10
+
+
+while True:
+    try:
+        sayi_girilen=int(input("Sayı giriniz :"))
+        if sayirandom!=sayi_girilen:
+            if sayi_girilen>sayirandom:
+                print("İşleminiz yapılıyor...")
+                time.sleep(0.5)
+                print("Daha küçük bir değer giriniz ")
+                giris_hakki-=1
+
+            elif sayi_girilen<sayirandom:
+                print("İşleminiz yapılıyor...")
+                time.sleep(0.5)
+                print("Daha büyük bir değer giriniz")
+                giris_hakki-=1
+
+            if giris_hakki==0:
+                print("İşleminiz yapılıyor...")
+                time.sleep(0.5)
+                print(f"Giriş hakkınız bitti, Sayınız \'{sayirandom}\' di.")
+                break
+                
+        elif sayi_girilen==sayirandom:
+            print("İşleminiz yapılıyor...")
+            time.sleep(0.5)
+            print("Tebrikler sayıyı buldunuz ..." , "Girilen sayi:",sayi_girilen,", Random sayi",sayirandom)
+            print((10-giris_hakki),'. seferde buldunuz' )
+            break
+    except:
+        print('Lütfen bir SAYI giriniz')

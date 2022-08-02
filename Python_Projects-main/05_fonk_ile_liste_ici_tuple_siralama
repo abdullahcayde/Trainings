@@ -1,0 +1,13 @@
+def take_second(elemt):
+    return elemt[1]
+
+
+#Normal Sort
+list1 = [('b', 0), ('a', 15), ('d', 13), ('c', 14),('e',8)]
+list1.sort(key=take_second)
+print(list1)
+
+#Reverse Sort
+list2 = [('b', 0), ('a', 15), ('d', 13), ('c', 14),('e',8)]
+list2.sort(key=take_second, reverse=True)
+print(list2)

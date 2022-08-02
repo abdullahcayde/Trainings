@@ -1,0 +1,57 @@
+#---------- Baslik 01 ---------- New Line (/n)
+
+#Ornek 1.1
+print("birinci satır\nikinci satır\nüçüncü satır")
+OutPut :  birinci satır
+          ikinci satır
+          üçüncü satır
+
+#Ornek 1.2        
+print("birinci satır", "ikinci satır", "üçüncü satır", sep="\n")
+OutPut :  birinci satır
+          ikinci satır
+          üçüncü satır
+
+#---------- Baslik 02 ---------- end= ''
+
+#Ornek 2.1
+print("Bugün günlerden Salı", end="\n")
+print('Carsamba')
+OutPut:
+Bugün günlerden Salı
+Carsamba
+
+#Ornek 2.2
+print("Bugün günlerden Salı", end=".")
+Bugün günlerden Salı.
+
+#---------- Baslik 03 ---------- sep= ''
+
+#Ornek 3.1
+print(1, 2, 3, 4, 5, sep="-")
+OutPut: 
+1-2-3-4-5
+
+#---------- Baslik 04 ---------- f-string
+a = 10.1234
+print(f"{a:.2f}")
+print(round(top, 2))
+OutPut: 
+10.12
+10.12
+
+grade = 29/45
+print(f'Aldığım sonuç: {grade:.3%}.')
+OutPut: 
+Aldığım sonuç: 64.444%.
+
+from random import randint
+for i in range(5):
+    print(f'Param: {randint(0, 150):>3}$')
+OutPut: 
+Param: 126$
+Param:   7$
+Param: 136$
+Param:  15$
+Param:  88$
+

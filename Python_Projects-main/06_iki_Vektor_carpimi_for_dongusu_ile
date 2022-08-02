@@ -1,0 +1,20 @@
+# Vektor Carpimi 
+
+a = [1,2,3,4]
+b = [5,6,7,8]
+
+ab = []
+
+for i in range(0,len(a)):
+    ab.append(a[i]*b[i])
+
+print(ab)
+#OutPut : [5, 12, 21, 32]
+
+import numpy as np 
+
+c = np.array([1,2,3,4])
+d = np.array([5,6,7,8])
+
+print(c*d)
+#OutPut : array([ 5, 12, 21, 32])
