@@ -103,27 +103,28 @@ sleep(1)
 
 # Headers, Price, Descrition
 header = driver.find_elements(By.CLASS_NAME, 'ellipsis')
-description_middle = driver.find_elements(By.CLASS_NAME, 'aditem-main--middle--description')
 preis = driver.find_elements(By.CLASS_NAME, 'aditem-main--middle--price')
+description_middle = driver.find_elements(By.CLASS_NAME, 'aditem-main--middle--description')
+top_text = driver.find_elements(By.CLASS_NAME, 'icon icon-small icon-pin')
 
 # 4 -  Headers List
 # 4.1 -
-header_list = list()
-header_list = [title.text for title in header][1:]
+header_list = [title.text for title in header]
 print(header_list)
-preis_list = list()
-preis_list = [p.text for p in preis][1:]
+preis_list = [p.text for p in preis]
 print(preis_list)
-description_middle_list = list()
-description_middle_list = [des.text for des in description_middle][1:]
+description_middle_list = [des.text for des in description_middle]
+print('')
 bottom_2_text = driver.find_elements(By.CLASS_NAME, 'text-module-end')
-bottom_2_text_list = list()
-bottom_2_text_list = [des.text for des in bottom_2_text][1:]
+bottom_2_text_list = [des.text for des in bottom_2_text]
 print(bottom_2_text_list)
+
 
 # bottom_2_text_list Editing
 km_list = [(i.split(' km '))[0] for i in bottom_2_text_list]
 year_list = [(i.split(' km '))[1] for i in bottom_2_text_list]
+
+
 
 # 4.2 - DataFrame df
 d = {'Title':header_list, 'Price':preis_list, 'Km':km_list, 'Year':year_list ,'Description':description_middle_list}
@@ -134,5 +135,5 @@ print(df)
 df.to_csv('ebay08_jazz_auto.csv')
 
 print('Code Runned No Problem')
-sleep(4)
+sleep(10)
 driver.quit()

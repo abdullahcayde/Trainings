@@ -62,8 +62,12 @@ df.to_csv('.csv')
 '''
 bottom_2_text = driver.find_elements(By.CLASS_NAME, 'text-module-end')
 bottom_2_text_list = list()
-bottom_2_text_list = [des.text for des in bottom_2_text][1:]
+bottom_2_text_list = [des.text for des in bottom_2_text]
 print(bottom_2_text_list)
+
+top_text = driver.find_elements(By.CLASS_NAME, 'aditem-main--top--left')
+top_text_list = [des.text for des in top_text]
+print(top_text_list)
 
 print('Code Runned No Problem')
 sleep(4)
