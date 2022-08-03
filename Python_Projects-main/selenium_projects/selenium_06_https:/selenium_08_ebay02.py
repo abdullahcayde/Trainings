@@ -116,9 +116,17 @@ preis_list = [p.text for p in preis][1:]
 print(preis_list)
 description_middle_list = list()
 description_middle_list = [des.text for des in description_middle][1:]
+bottom_2_text = driver.find_elements(By.CLASS_NAME, 'text-module-end')
+bottom_2_text_list = list()
+bottom_2_text_list = [des.text for des in bottom_2_text][1:]
+print(bottom_2_text_list)
+
+# bottom_2_text_list Editing
+km_list = [(i.split(' km '))[0] for i in bottom_2_text_list]
+year_list = [(i.split(' km '))[1] for i in bottom_2_text_list]
 
 # 4.2 - DataFrame df
-d = {'Title':header_list, 'Price':preis_list, 'Description':description_middle_list}
+d = {'Title':header_list, 'Price':preis_list, 'Km':km_list, 'Year':year_list ,'Description':description_middle_list}
 df = pd.DataFrame(d)
 print(df)
 

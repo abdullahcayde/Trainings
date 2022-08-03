@@ -32,11 +32,12 @@ akzeptieren = driver.find_element(By.ID, 'gdpr-banner-accept')
 actions.click(akzeptieren).perform()
 driver.implicitly_wait(10)
 sleep(1)
-
+'''
 # Headers, Price, Descrition
 header = driver.find_elements(By.CLASS_NAME, 'ellipsis')
 description_middle = driver.find_elements(By.CLASS_NAME, 'aditem-main--middle--description')
 preis = driver.find_elements(By.CLASS_NAME, 'aditem-main--middle--price')
+
 
 # 4 -  Headers List
 # 4.1 -
@@ -49,14 +50,20 @@ print(preis_list)
 description_middle_list = list()
 description_middle_list = [des.text for des in description_middle][1:]
 
+
 # 4.2 - DataFrame df
 d = {'Title':header_list, 'Price':preis_list, 'Description':description_middle_list}
 df = pd.DataFrame(d)
 print(df)
 
+
 # 4.3 - Save DataFrame
 df.to_csv('.csv')
-
+'''
+bottom_2_text = driver.find_elements(By.CLASS_NAME, 'text-module-end')
+bottom_2_text_list = list()
+bottom_2_text_list = [des.text for des in bottom_2_text][1:]
+print(bottom_2_text_list)
 
 print('Code Runned No Problem')
 sleep(4)
