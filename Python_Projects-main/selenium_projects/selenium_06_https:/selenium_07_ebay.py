@@ -32,6 +32,9 @@ actions.key_down(Keys.ENTER).perform()
 driver.implicitly_wait(5)
 time.sleep(3)
 
+close_einloggen = driver.find_element(By.XPATH, '/html/body/header/section[1]/section/div/div/a')
+actions.click(close_einloggen).perform()
+
 time.sleep(5)
 print('Code Runned Without Problem')
 driver.quit()
