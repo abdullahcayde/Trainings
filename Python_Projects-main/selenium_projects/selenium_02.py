@@ -39,7 +39,7 @@ try:
     for article in articles:
         header = article.find_element(By.CLASS_NAME, 'entry-summary')
         print(header.text)
-    print('Try calisti')
+    print('Try Calisti')
 
 # finally de olur
 except:

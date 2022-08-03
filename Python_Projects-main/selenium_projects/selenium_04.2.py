@@ -15,7 +15,7 @@ driver.get('https://orteil.dashnet.org/cookieclicker/')
 # To be Sure to Load Website
 driver.implicitly_wait(8)
 time.sleep(5)
-print('Code Runned ilk')
+print('Code Runned First')
 cookie = driver.find_element(By.ID, 'bigCookie')
 cookie_count = driver.find_element(By.ID, 'cookies')
 #items = [driver.find_element(By.ID, 'productPrice' + str(i)) for i in range(1,-1,-1)]

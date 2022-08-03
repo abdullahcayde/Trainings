@@ -5,7 +5,7 @@ from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.action_chains import ActionChains
 
 '''
-print('---------------- Bolum 1 ----------------------------------')
+print('---------------- Bolum 1 -----------------------------------')
 Path = '/Users/macbook/chromedriver'
 driver = webdriver.Chrome(Path)
 

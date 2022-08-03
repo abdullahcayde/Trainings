@@ -24,7 +24,7 @@ for click in range(5):
     actions.click(one)
     actions.perform()
     time.sleep(0.5)
-    print('click')
+    print('click.')
 
 #actions.perform()
 

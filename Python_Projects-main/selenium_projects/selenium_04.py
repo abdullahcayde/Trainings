@@ -34,6 +34,6 @@ actions = ActionChains(driver)
 for i in range(15):
     actions.click(cookie)
     actions.perform() # No perfom no action
-print('code runned')
+print('code Runned')
 time.sleep(15)
 driver.quit()
