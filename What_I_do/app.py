@@ -18,6 +18,7 @@ def get_data_from_excel():
         usecols="B:R",
         nrows=1000,
     )
+    #df
     df['hour'] = pd.to_datetime(df['Time'], format='%H:%M:%S').dt.hour
     return df
 
