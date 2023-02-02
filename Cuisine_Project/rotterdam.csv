@@ -1,5 +1,5 @@
 title,address,price,duzenle,m2,rooms,furnished
-Apartment Stationssingel,3033 HE Rotterdam (Provenierswijk),"€1,595 per month",99 m²/3 rooms/Upholstered,99 m²,3 rooms,Upholstered
+House Burgemeester Meineszlaan,3022 BC Rotterdam (Nieuwe Westen),"€2,800 per month",82 m²/5 rooms,82 m²,5 rooms,
 Apartment Oostmaaslaan,3063 AN Rotterdam (Struisenburg),"€1,450 per month",65 m²/3 rooms/Furnished,65 m²,3 rooms,Furnished
 Apartment Boompjes,3011 XZ Rotterdam (Stadsdriehoek),"€1,625 per month",59 m²/2 rooms/Furnished,59 m²,2 rooms,Furnished
 Apartment Hermonlaan 64,3061 BH Rotterdam (Kralingen West),"€2,000 per month",80 m²/3 rooms/Furnished,80 m²,3 rooms,Furnished
@@ -33,23 +33,612 @@ Apartment Schiedamseweg,3026 AG Rotterdam (Tussendijken),"€1,600 per month",50
 Apartment Wierdsmaplein,3072 MJ Rotterdam (Kop van Zuid),"€5,500 per month",170 m²/3 rooms/Furnished,170 m²,3 rooms,Furnished
 Apartment Stationssingel,3033 HE Rotterdam (Provenierswijk),"€1,595 per month",99 m²/3 rooms/Upholstered,99 m²,3 rooms,Upholstered
 House Burgemeester Meineszlaan,3022 BC Rotterdam (Nieuwe Westen),"€2,800 per month",82 m²/5 rooms,82 m²,5 rooms,
-Apartment Avenue Concordia 42 B,3062 LJ Rotterdam (Kralingen Oost),"€1,800 per month",82 m²/3 rooms/Furnished,82 m²,3 rooms,Furnished
-Apartment Essenburgsingel 115 A,3022 EJ Rotterdam (Nieuwe Westen),"€2,450 per month",145 m²/4 rooms/1925,145 m²,4 rooms,1925
-Apartment Stadhoudersweg,3039 ED Rotterdam (Blijdorp),"€3,500 per month",170 m²/6 rooms/Upholstered,170 m²,6 rooms,Upholstered
-Apartment Joost van Geelstraat,3021 VJ Rotterdam (Middelland),"€1,175 per month",70 m²/3 rooms/Upholstered,70 m²,3 rooms,Upholstered
-Apartment Berberisweg 440 B,3053 PL Rotterdam (Schiebroek),"€1,592 per month",89 m²/3 rooms/Shell,89 m²,3 rooms,Shell
-Apartment Berberisweg 442 G,3053 PL Rotterdam (Schiebroek),"€1,592 per month",89 m²/3 rooms/Shell,89 m²,3 rooms,Shell
-Apartment Berberisweg 440 C,3053 PL Rotterdam (Schiebroek),"€1,592 per month",89 m²/3 rooms/Shell,89 m²,3 rooms,Shell
-Apartment Berberisweg 440 G,3053 PL Rotterdam (Schiebroek),"€1,592 per month",89 m²/3 rooms/Shell,89 m²,3 rooms,Shell
-Apartment Berberisweg 436 C,3053 PL Rotterdam (Schiebroek),"€1,546 per month",89 m²/3 rooms/Shell,89 m²,3 rooms,Shell
-Apartment Berberisweg 442 D,3053 PL Rotterdam (Schiebroek),"€1,592 per month",89 m²/3 rooms/Shell,89 m²,3 rooms,Shell
-Apartment Berberisweg 434 F,3053 PL Rotterdam (Schiebroek),"€1,592 per month",89 m²/3 rooms/Shell,89 m²,3 rooms,Shell
-Apartment Berkelselaan,3038 NA Rotterdam (Bergpolder),€975 per month,47 m²/3 rooms/Upholstered,47 m²,3 rooms,Upholstered
-Apartment Nico Koomanskade,3072 LM Rotterdam (Katendrecht),"€2,195 per month",85 m²/3 rooms/Furnished,85 m²,3 rooms,Furnished
-Apartment Berberisweg 388,3053 PL Rotterdam (Schiebroek),"€1,625 per month",91 m²/3 rooms/Shell,91 m²,3 rooms,Shell
-Apartment Berberisweg 398,3053 PL Rotterdam (Schiebroek),"€1,702 per month",106 m²/3 rooms/Shell,106 m²,3 rooms,Shell
+Apartment Henegouwerlaan 43 C1,3021 CR Rotterdam (Middelland),"€1,450 per month",62 m²/3 rooms/Upholstered or furnished,62 m²,3 rooms,Upholstered or furnished
+Studio Noordschans,3026 VZ Rotterdam (Tussendijken),"€1,750 per month",54 m²/2 rooms/Furnished,54 m²,2 rooms,Furnished
+Apartment Van Cittersstraat,3022 LH Rotterdam (Nieuwe Westen),"€1,795 per month",125 m²/3 rooms/Upholstered or furnished,125 m²,3 rooms,Upholstered or furnished
+Apartment Strevelsweg,3083 LX Rotterdam (Vreewijk),"€1,295 per month",80 m²/3 rooms/Upholstered,80 m²,3 rooms,Upholstered
+Apartment Oostmaaslaan,3063 AV Rotterdam (Struisenburg),"€1,950 per month",102 m²/3 rooms/Furnished,102 m²,3 rooms,Furnished
+Apartment Tapuitstraat 78 C,3083 WV Rotterdam (Carnisse),€875 per month,60 m²/3 rooms/Upholstered,60 m²,3 rooms,Upholstered
+Apartment Van Vollenhovenstraat,3016 BE Rotterdam (Nieuwe Werk),"€1,550 per month",79 m²/3 rooms/Upholstered,79 m²,3 rooms,Upholstered
+Apartment Blaak,3011 GB Rotterdam (Stadsdriehoek),"€1,395 per month",70 m²/2 rooms/Furnished,70 m²,2 rooms,Furnished
+Apartment Specerijenhof,3063 BX Rotterdam (Struisenburg),"€1,850 per month",100 m²/2 rooms/Furnished,100 m²,2 rooms,Furnished
+Apartment Voetjesstraat,3081 HS Rotterdam (Tarwewijk),"€1,250 per month",74 m²/4 rooms/Upholstered,74 m²,4 rooms,Upholstered
+Apartment 's-Gravenweg,3065 SC Rotterdam ('s-Gravenland),"€1,125 per month",58 m²/2 rooms/Shell,58 m²,2 rooms,Shell
+Apartment Aernt Bruunstraat,3067 JA Rotterdam (Het Lage Land),€950 per month,90 m²/3 rooms/Shell,90 m²,3 rooms,Shell
+Apartment Wierdsmaplein,3072 MJ Rotterdam (Kop van Zuid),"€2,460 per month",140 m²/3 rooms/Furnished,140 m²,3 rooms,Furnished
+Apartment Joost van Geelstraat,3021 VJ Rotterdam (Middelland),"€1,150 per month",70 m²/3 rooms/Upholstered,70 m²,3 rooms,Upholstered
+Apartment Westersingel,3014 GS Rotterdam (Oude Westen),"€2,150 per month",115 m²/3 rooms/Furnished,115 m²,3 rooms,Furnished
+Apartment Heiman Dullaertplein 154,3024 CD Rotterdam (Delfshaven),"€2,300 per month",206 m²/5 rooms/2020,206 m²,5 rooms,2020
+Apartment Weena 931,3013 AL Rotterdam (Cs Kwartier),"€1,900 per month",130 m²/4 rooms/Furnished,130 m²,4 rooms,Furnished
+Apartment Schiedamsedijk,3011 EE Rotterdam (Stadsdriehoek),"€1,495 per month",75 m²/3 rooms/Upholstered,75 m²,3 rooms,Upholstered
+Apartment Wijnkade,3011 VZ Rotterdam (Stadsdriehoek),"€1,850 per month",109 m²/4 rooms/Upholstered or furnished,109 m²,4 rooms,Upholstered or furnished
+Apartment Buffelstraat,3064 AD Rotterdam (Kralingseveer),"€1,275 per month",62 m²/3 rooms/Upholstered,62 m²,3 rooms,Upholstered
+Apartment Spanjaardstraat 113 a 03,3025 TM Rotterdam (Bospolder),"€1,050 per month",52 m²/2 rooms/Upholstered,52 m²,2 rooms,Upholstered
+Apartment Mendelssohnlaan 103,3055 HK Rotterdam (Molenlaankwartier),"€1,450 per month",90 m²/3 rooms/Upholstered,90 m²,3 rooms,Upholstered
+Apartment Witte de Withstraat,3012 BM Rotterdam (Cool),"€1,150 per month",60 m²/2 rooms/Furnished,60 m²,2 rooms,Furnished
+Apartment Schonebergerweg,3023 ZH Rotterdam (Nieuwe Westen),"€1,200 per month",45 m²/2 rooms/Furnished,45 m²,2 rooms,Furnished
+Apartment Heemraadssingel 108 AI,3021 DH Rotterdam (Middelland),"€1,650 per month",97 m²/3 rooms/Upholstered,97 m²,3 rooms,Upholstered
+Apartment Zaagmolenstraat,3036 HN Rotterdam (Oude Noorden),"€1,495 per month",105 m²/2 rooms/Upholstered or furnished,105 m²,2 rooms,Upholstered or furnished
+House Prinses Margrietlaan,3051 AR Rotterdam (Hillegersberg Zuid),"€1,750 per month",55 m²/3 rooms/Furnished,55 m²,3 rooms,Furnished
+Studio Schiedamsesingel,3012 BB Rotterdam (Cool),"€1,100 per month",25 m²/1 room/Furnished,25 m²,1 room,Furnished
+Apartment Carel van Nieveltstraat,3031 RC Rotterdam (Rubroek),"€1,225 per month",50 m²/2 rooms/Furnished,50 m²,2 rooms,Furnished
+Apartment Pompenburg,3032 EM Rotterdam (Oude Noorden),"€1,650 per month",70 m²/3 rooms/Furnished,70 m²,3 rooms,Furnished
+House Burgemeester Meineszlaan,3022 BC Rotterdam (Nieuwe Westen),"€2,800 per month",82 m²/5 rooms,82 m²,5 rooms,
+Apartment Oostmaaslaan,3063 AN Rotterdam (Struisenburg),"€1,450 per month",65 m²/3 rooms/Furnished,65 m²,3 rooms,Furnished
+Apartment Polderlaan,3074 ME Rotterdam (Hillesluis),"€1,450 per month",100 m²/4 rooms/2008,100 m²,4 rooms,2008
+Apartment Zaagmolenstraat 20 B,3035 HB Rotterdam (Oude Noorden),"€1,625 per month",124 m²/5 rooms/Shell,124 m²,5 rooms,Shell
+Apartment Pleinweg 143 B*,3081 JK Rotterdam (Tarwewijk),€950 per month,55 m²/2 rooms/Upholstered,55 m²,2 rooms,Upholstered
+Studio Nieuwe Binnenweg 226 B,3021 GM Rotterdam (Middelland),€650 per month,21 m²/1 room/Upholstered,21 m²,1 room,Upholstered
+Apartment Kruiskade,3012 EG Rotterdam (Cool),"€2,150 per month",81 m²/4 rooms/Upholstered,81 m²,4 rooms,Upholstered
+Apartment Oppert,3011 HV Rotterdam (Stadsdriehoek),"€2,990 per month",117 m²/4 rooms/Furnished,117 m²,4 rooms,Furnished
+House Randweg 101 B,3074 BK Rotterdam (Hillesluis),"€1,325 per month",130 m²/4 rooms/Upholstered,130 m²,4 rooms,Upholstered
+Apartment Goudsesingel,3031 EC Rotterdam (Rubroek),"€1,350 per month",69 m²/2 rooms/Furnished,69 m²,2 rooms,Furnished
+Apartment Wilgenlei,3052 CJ Rotterdam (Schiebroek),"€1,250 per month",60 m²/3 rooms/Upholstered,60 m²,3 rooms,Upholstered
+House Berkelselaan,3037 PB Rotterdam (Liskwartier),"€2,495 per month",120 m²/4 rooms/Furnished,120 m²,4 rooms,Furnished
+Apartment Aelbrechtskolk,3025 HA Rotterdam (Bospolder),"€1,150 per month",61 m²/2 rooms/Upholstered,61 m²,2 rooms,Upholstered
+Apartment Abraham Kuyperlaan,3038 PD Rotterdam (Bergpolder),"€1,100 per month",40 m²/1 room/Furnished,40 m²,1 room,Furnished
+Apartment Gedempte Zalmhaven,3016 DT Rotterdam (Nieuwe Werk),"€3,450 per month",111 m²/4 rooms/Furnished,111 m²,4 rooms,Furnished
+Apartment Aegidiusstraat,3061 XR Rotterdam (Kralingen West),"€1,295 per month",120 m²/3 rooms/Shell,120 m²,3 rooms,Shell
+Apartment Jufferstraat 324,3011 XM Rotterdam (Stadsdriehoek),"€1,895 per month",91 m²/3 rooms/Upholstered or furnished,91 m²,3 rooms,Upholstered or furnished
+Apartment Jan Pettersonstraat,3077 MN Rotterdam (Oud IJsselmonde),"€1,750 per month",88 m²/3 rooms/Upholstered,88 m²,3 rooms,Upholstered
+Apartment Handelsplein,3071 PR Rotterdam (Kop van Zuid - Entrepot),"€2,100 per month",140 m²/3 rooms/Furnished,140 m²,3 rooms,Furnished
+Apartment Bree,3074 BB Rotterdam (Hillesluis),€975 per month,65 m²/2 rooms/Upholstered,65 m²,2 rooms,Upholstered
+Apartment Ochterveltstraat,3015 XL Rotterdam (Oude Westen),"€1,150 per month",65 m²/2 rooms/Furnished,65 m²,2 rooms,Furnished
+Apartment Oostmaaslaan,3063 AV Rotterdam (Struisenburg),"€1,850 per month",55 m²/2 rooms/Furnished,55 m²,2 rooms,Furnished
+Apartment Baan,3011 CC Rotterdam (Stadsdriehoek),"€1,825 per month",60 m²/2 rooms/Furnished,60 m²,2 rooms,Furnished
+Apartment Walenburgerweg,3039 AD Rotterdam (Provenierswijk),"€1,750 per month",84 m²/2 rooms/Furnished,84 m²,2 rooms,Furnished
+Apartment Van Eversdijckstraat,3083 MB Rotterdam (Carnisse),"€1,450 per month",95 m²/4 rooms/Furnished,95 m²,4 rooms,Furnished
+Room Nieuwenhoornstraat,3082 VK Rotterdam (Oud Charlois),€685 per month,15 m²/1 room/Furnished,15 m²,1 room,Furnished
+Apartment Houtlaan,3016 DA Rotterdam (Nieuwe Werk),"€2,600 per month",125 m²/3 rooms/Upholstered,125 m²,3 rooms,Upholstered
+Studio Ossenisseweg,3086 KV Rotterdam (Pendrecht),€950 per month,30 m²/1 room/Furnished,30 m²,1 room,Furnished
+Apartment Mathenesserweg 72 03,3026 HE Rotterdam (Spangen),"€1,850 per month",115 m²/6 rooms/1926,115 m²,6 rooms,1926
+Apartment Oppert,3011 HV Rotterdam (Stadsdriehoek),"€1,900 per month",93 m²/3 rooms/Furnished,93 m²,3 rooms,Furnished
+Apartment Watertorenweg,3063 HA Rotterdam (De Esch),"€1,150 per month",53 m²/2 rooms/Furnished,53 m²,2 rooms,Furnished
+Apartment De Savornin Lohmanlaan 87 A02,3038 NE Rotterdam (Bergpolder),"€1,495 per month",95 m²/3 rooms/Furnished,95 m²,3 rooms,Furnished
+Apartment Stationssingel,3033 HE Rotterdam (Provenierswijk),"€1,595 per month",99 m²/3 rooms/Upholstered,99 m²,3 rooms,Upholstered
+Apartment Oostmaaslaan,3063 AN Rotterdam (Struisenburg),"€1,450 per month",65 m²/3 rooms/Furnished,65 m²,3 rooms,Furnished
+Apartment Van der Horststraat 4,3039 VK Rotterdam (Blijdorp),"€2,150 per month",104 m²/4 rooms/Upholstered,104 m²,4 rooms,Upholstered
+Apartment Vondelweg,3031 PW Rotterdam (Rubroek),"€1,350 per month",65 m²/2 rooms/Furnished,65 m²,2 rooms,Furnished
+Apartment Wijnhaven 65 C27,3011 WJ Rotterdam (Stadsdriehoek),"€3,100 per month",136 m²/4 rooms/Upholstered,136 m²,4 rooms,Upholstered
+Apartment Wijnhaven 65 B27,3011 WJ Rotterdam (Stadsdriehoek),"€2,750 per month",122 m²/3 rooms/Upholstered,122 m²,3 rooms,Upholstered
+Apartment Wijnhaven 65 A27,3011 WJ Rotterdam (Stadsdriehoek),"€2,200 per month",95 m²/3 rooms/Upholstered,95 m²,3 rooms,Upholstered
+Apartment Graaf Balderikstraat,3032 HC Rotterdam (Oude Noorden),"€1,350 per month",52 m²/2 rooms/Furnished,52 m²,2 rooms,Furnished
+Apartment Osseweistraat 29 B,3023 DB Rotterdam (Nieuwe Westen),"€2,950 per month",100 m²/6 rooms/Upholstered,100 m²,6 rooms,Upholstered
+Apartment Karel Doormanstraat,3012 GH Rotterdam (Cool),"€1,150 per month",45 m²/2 rooms/Upholstered,45 m²,2 rooms,Upholstered
+Apartment Meent,3011 JE Rotterdam (Stadsdriehoek),"€1,995 per month",80 m²/4 rooms/Furnished,80 m²,4 rooms,Furnished
+Apartment Rijsoordstraat 65 A,3081 BT Rotterdam (Tarwewijk),€850 per month,25 m²/1 room/1933,25 m²,1 room,1933
+Apartment Carnisselaan,3083 HB Rotterdam (Carnisse),"€1,395 per month",52 m²/3 rooms/Upholstered,52 m²,3 rooms,Upholstered
+Apartment Lambertusstraat,3062 XB Rotterdam (Kralingen Oost),"€1,495 per month",50 m²/2 rooms/Furnished,50 m²,2 rooms,Furnished
+Apartment Wilhelminakade,3072 AP Rotterdam (Kop van Zuid),"€3,650 per month",106 m²/3 rooms/Furnished,106 m²,3 rooms,Furnished
+Apartment Burgemeester Roosstraat,3035 AH Rotterdam (Oude Noorden),"€1,350 per month",66 m²/3 rooms/Upholstered,66 m²,3 rooms,Upholstered
+Apartment Blankershoek 9,3085 EC Rotterdam (Zuidwijk),€895 per month,65 m²/3 rooms/Upholstered,65 m²,3 rooms,Upholstered
+Apartment Socratesstraat 89,3076 BT Rotterdam (Lombardijen),"€1,050 per month",65 m²/2 rooms/1964,65 m²,2 rooms,1964
+Apartment Cor Kieboomplein,3077 MK Rotterdam (Oud IJsselmonde),"€1,695 per month",86 m²/3 rooms/Upholstered,86 m²,3 rooms,Upholstered
+Apartment Notenoord,3079 LR Rotterdam (Groot IJsselmonde),€795 per month,43 m²/2 rooms/Upholstered,43 m²,2 rooms,Upholstered
+Apartment Crooswijksestraat,3034 AM Rotterdam (Oud Crooswijk),"€1,750 per month",86 m²/4 rooms/Upholstered,86 m²,4 rooms,Upholstered
+Apartment Sint-Jobstraat,3024 EG Rotterdam (Schiemond),"€1,900 per month",103 m²/3 rooms/Furnished,103 m²,3 rooms,Furnished
+Apartment Baan,3011 CC Rotterdam (Stadsdriehoek),"€2,150 per month",74 m²/3 rooms/Furnished,74 m²,3 rooms,Furnished
+Apartment Laan op Zuid,3071 AA Rotterdam (Kop van Zuid),"€1,895 per month",139 m²/4 rooms/Upholstered,139 m²,4 rooms,Upholstered
+Apartment Narcissenstraat,3073 CM Rotterdam (Bloemhof),€910 per month,32 m²/2 rooms/Upholstered,32 m²,2 rooms,Upholstered
+Apartment West-Varkenoordseweg 215 B02,3074 HT Rotterdam (Hillesluis),€925 per month,50 m²/2 rooms/Upholstered,50 m²,2 rooms,Upholstered
+Apartment Gordelweg 147 B,3038 GD Rotterdam (Bergpolder),"€1,250 per month",65 m²/3 rooms/Upholstered,65 m²,3 rooms,Upholstered
+Apartment Sikkelstraat,3075 CK Rotterdam (Vreewijk),"€1,200 per month",49 m²/2 rooms/Upholstered,49 m²,2 rooms,Upholstered
+Apartment Bulgersteyn,3011 AB Rotterdam (Stadsdriehoek),"€1,995 per month",91 m²/3 rooms/Furnished,91 m²,3 rooms,Furnished
+Apartment Karel Doormanstraat 283 D,3012 GH Rotterdam (Cool),"€1,650 per month",90 m²/3 rooms/Furnished,90 m²,3 rooms,Furnished
+Apartment Schiedamseweg,3026 AG Rotterdam (Tussendijken),"€1,600 per month",50 m²/3 rooms/Furnished,50 m²,3 rooms,Furnished
+Apartment Walenburgerweg,3033 AJ Rotterdam (Provenierswijk),"€1,995 per month",125 m²/6 rooms/Upholstered,125 m²,6 rooms,Upholstered
+Apartment Stationssingel,3033 HE Rotterdam (Provenierswijk),"€1,595 per month",99 m²/3 rooms/Upholstered,99 m²,3 rooms,Upholstered
+Apartment Oostmaaslaan,3063 AN Rotterdam (Struisenburg),"€1,450 per month",65 m²/3 rooms/Furnished,65 m²,3 rooms,Furnished
+Apartment Van Swietenlaan 23 A,3083 DS Rotterdam (Zuidplein),"€2,400 per month",142 m²/4 rooms/Upholstered or furnished,142 m²,4 rooms,Upholstered or furnished
+Apartment Wijnhaven 65 D01,3011 WJ Rotterdam (Stadsdriehoek),"€1,300 per month",50 m²/2 rooms/Upholstered,50 m²,2 rooms,Upholstered
+Apartment Putsebocht 153 A,3073 HH Rotterdam (Bloemhof),"€1,250 per month",75 m²/4 rooms/Upholstered,75 m²,4 rooms,Upholstered
+Studio Essenburgsingel,3022 EM Rotterdam (Nieuwe Westen),€895 per month,31 m²/1 room/Furnished,31 m²,1 room,Furnished
+Apartment Scheepmakerskade,3011 VX Rotterdam (Stadsdriehoek),"€1,750 per month",75 m²/3 rooms/Furnished,75 m²,3 rooms,Furnished
+Apartment Van Vollenhovenstraat,3016 BE Rotterdam (Nieuwe Werk),"€1,350 per month",52 m²/2 rooms/Furnished,52 m²,2 rooms,Furnished
+Apartment Spoorweghaven,3071 ZG Rotterdam (Kop van Zuid - Entrepot),"€1,500 per month",91 m²/3 rooms/Furnished,91 m²,3 rooms,Furnished
+Apartment Dorpsweg,3083 LA Rotterdam (Oud Charlois),"€1,245 per month",65 m²/3 rooms/Upholstered,65 m²,3 rooms,Upholstered
+Apartment Ganzerikplein,3053 EA Rotterdam (Schiebroek),"€1,050 per month",44 m²/2 rooms/Upholstered,44 m²,2 rooms,Upholstered
+Apartment Wilhelminakade 373,3072 AP Rotterdam (Kop van Zuid),"€1,600 per month",60 m²/2 rooms/Upholstered or furnished,60 m²,2 rooms,Upholstered or furnished
+Apartment Wapenstraat 51,3074 ZR Rotterdam (Hillesluis),€775 per month,26 m²/2 rooms/1906-1930,26 m²,2 rooms,1906-1930
+House Jan Meertensstraat,3065 PB Rotterdam ('s-Gravenland),"€2,950 per month",200 m²/6 rooms/Furnished,200 m²,6 rooms,Furnished
+Apartment Carel van Nieveltstraat 29 B,3031 RB Rotterdam (Rubroek),"€1,750 per month",71 m²/4 rooms/Upholstered,71 m²,4 rooms,Upholstered
+Apartment Quadenoord 200,3079 XJ Rotterdam (Groot IJsselmonde),€895 per month,60 m²/3 rooms/2000,60 m²,3 rooms,2000
+House Claes de Vrieselaan,3021 JE Rotterdam (Middelland),"€1,995 per month",65 m²/2 rooms/Furnished,65 m²,2 rooms,Furnished
+Apartment Baan,3011 CC Rotterdam (Stadsdriehoek),"€2,595 per month",80 m²/3 rooms/Furnished,80 m²,3 rooms,Furnished
+Room Leeuwenstraat,3011 AL Rotterdam (Stadsdriehoek),€695 per month,15 m²/1 room/Upholstered,15 m²,1 room,Upholstered
+House Verwoldestraat,3077 HR Rotterdam (Beverwaard),"€2,095 per month",114 m²/5 rooms/Furnished,114 m²,5 rooms,Furnished
+Apartment Oudedijk,3061 AX Rotterdam (Kralingen West),"€2,400 per month",115 m²/3 rooms/Upholstered,115 m²,3 rooms,Upholstered
+Apartment Jan Willem Frisostraat,3051 EJ Rotterdam (Hillegersberg Zuid),"€1,025 per month",71 m²/3 rooms/Upholstered,71 m²,3 rooms,Upholstered
+Apartment Wilgenplaslaan,3052 SN Rotterdam (Schiebroek),"€1,095 per month",65 m²/1 room/Upholstered,65 m²,1 room,Upholstered
+Apartment Gordelweg,3038 GG Rotterdam (Bergpolder),"€1,395 per month",100 m²/2 rooms/Upholstered,100 m²,2 rooms,Upholstered
+Apartment Korhaanstraat,3083 XD Rotterdam (Carnisse),€650 per month,47 m²/3 rooms/1947,47 m²,3 rooms,1947
+House Nina Riccistraat,3059 MD Rotterdam (Nesselande),"€1,950 per month",118 m²/4 rooms/Furnished,118 m²,4 rooms,Furnished
+Apartment Sonmansstraat 107 B03,3039 DH Rotterdam (Blijdorp),"€2,250 per month",88 m²/5 rooms/50 m²,88 m²,5 rooms,50 m²
+Apartment Gordelweg,3039 GB Rotterdam (Blijdorp),"€1,495 per month",63 m²/2 rooms/Furnished,63 m²,2 rooms,Furnished
+Apartment Buitenbassinweg,3063 TC Rotterdam (De Esch),"€1,595 per month",83 m²/3 rooms/Furnished,83 m²,3 rooms,Furnished
+Apartment Gerard Scholtenstraat 57 A02,3035 SE Rotterdam (Oude Noorden),"€1,675 per month",75 m²/4 rooms/Upholstered,75 m²,4 rooms,Upholstered
+Apartment Strevelsweg,3073 DS Rotterdam (Bloemhof),"€1,095 per month",52 m²/2 rooms/Upholstered,52 m²,2 rooms,Upholstered
+Apartment Borgesiusstraat,3038 TG Rotterdam (Bergpolder),"€1,195 per month",50 m²/2 rooms/Upholstered,50 m²,2 rooms,Upholstered
+House Burgemeester Meineszlaan,3022 BC Rotterdam (Nieuwe Westen),"€2,800 per month",82 m²/5 rooms,82 m²,5 rooms,
+Apartment Oostmaaslaan,3063 AN Rotterdam (Struisenburg),"€1,450 per month",65 m²/3 rooms/Furnished,65 m²,3 rooms,Furnished
+Apartment Tandwielstraat 419,3083 AV Rotterdam (Vreewijk),€682 per month,24 m²/1 room/Upholstered,24 m²,1 room,Upholstered
+Apartment Landverhuizersplein 139,3072 MH Rotterdam (Kop van Zuid),"€3,100 per month",166 m²/3 rooms/Upholstered,166 m²,3 rooms,Upholstered
+Apartment Noorderhavenkade 116 B03,3038 XR Rotterdam (Bergpolder),"€1,595 per month",80 m²/4 rooms/1934,80 m²,4 rooms,1934
+Apartment Belgischestraat,3028 TJ Rotterdam (Oud Mathenesse),"€1,350 per month",53 m²/4 rooms/Upholstered,53 m²,4 rooms,Upholstered
+Apartment Schiedamseweg,3026 AG Rotterdam (Tussendijken),"€1,395 per month",70 m²/3 rooms/Upholstered,70 m²,3 rooms,Upholstered
+Apartment Noorderhavenkade,3038 XL Rotterdam (Bergpolder),"€1,495 per month",80 m²/3 rooms/Furnished,80 m²,3 rooms,Furnished
+House Goudsesingel,3011 KR Rotterdam (Stadsdriehoek),"€2,350 per month",108 m²/4 rooms/Upholstered,108 m²,4 rooms,Upholstered
+Apartment Dordtselaan,3081 BN Rotterdam (Tarwewijk),"€1,450 per month",95 m²/3 rooms/Upholstered,95 m²,3 rooms,Upholstered
+Apartment Baan 62 H,3011 CC Rotterdam (Stadsdriehoek),"€2,200 per month",114 m²/4 rooms/Upholstered,114 m²,4 rooms,Upholstered
+Apartment Librijesteeg,3011 HN Rotterdam (Stadsdriehoek),"€1,745 per month",80 m²/2 rooms/Furnished,80 m²,2 rooms,Furnished
+Apartment Van Vollenhovenstraat,3016 BE Rotterdam (Nieuwe Werk),"€1,500 per month",50 m²/2 rooms/Furnished,50 m²,2 rooms,Furnished
+Apartment Botersloot,3011 HH Rotterdam (Stadsdriehoek),"€1,450 per month",60 m²/2 rooms/Furnished,60 m²,2 rooms,Furnished
+Apartment IJsclubstraat 21 B,3061 GR Rotterdam (Kralingen West),"€1,100 per month",104 m²/2 rooms/Furnished,104 m²,2 rooms,Furnished
+Apartment Meeuwenstraat 8 D,3071 PE Rotterdam (Noordereiland),"€1,500 per month",73 m²/3 rooms/Upholstered,73 m²,3 rooms,Upholstered
+Apartment 2e Middellandstraat 9 A02,3021 BL Rotterdam (Middelland),"€1,395 per month",65 m²/3 rooms/Upholstered,65 m²,3 rooms,Upholstered
+Apartment Tapuitstraat,3083 WV Rotterdam (Carnisse),"€1,600 per month",84 m²/4 rooms/1945-1959,84 m²,4 rooms,1945-1959
+Apartment Noorderhavenkade 11 a2,3039 RC Rotterdam (Blijdorp),"€1,400 per month",90 m²/2 rooms/Furnished,90 m²,2 rooms,Furnished
+Apartment Spanjaardstraat,3025 TM Rotterdam (Bospolder),"€1,795 per month",130 m²/3 rooms/Upholstered,130 m²,3 rooms,Upholstered
+Apartment Baan,3011 CC Rotterdam (Stadsdriehoek),"€2,495 per month",60 m²/2 rooms/Furnished,60 m²,2 rooms,Furnished
+Apartment Klaverstraat 132 A,3083 VN Rotterdam (Carnisse),"€1,125 per month",61 m²/3 rooms/Upholstered,61 m²,3 rooms,Upholstered
+Apartment 's-Gravendijkwal,3014 EK Rotterdam (Oude Westen),"€2,100 per month",75 m²/3 rooms/Furnished,75 m²,3 rooms,Furnished
+Apartment Houtlaan 34 A,3016 DA Rotterdam (Nieuwe Werk),"€2,700 per month",123 m²/3 rooms/Upholstered or furnished,123 m²,3 rooms,Upholstered or furnished
+Apartment Toutenburgplantsoen,3077 PP Rotterdam (Beverwaard),"€1,650 per month",74 m²/3 rooms/Furnished,74 m²,3 rooms,Furnished
+Apartment Tandwielstraat 773,3083 AV Rotterdam (Vreewijk),€682 per month,24 m²/1 room/Furnished,24 m²,1 room,Furnished
+Apartment Tandwielstraat 141,3083 AV Rotterdam (Vreewijk),€731 per month,33 m²/1 room/Upholstered,33 m²,1 room,Upholstered
+Apartment Müllerkade,3024 EP Rotterdam (Schiemond),"€2,250 per month",108 m²/3 rooms/Furnished,108 m²,3 rooms,Furnished
+Apartment Wijnhaven,3011 WJ Rotterdam (Stadsdriehoek),"€1,395 per month",50 m²/2 rooms/Upholstered,50 m²,2 rooms,Upholstered
+Apartment Sternstraat,3083 ZS Rotterdam (Carnisse),"€1,025 per month",52 m²/3 rooms/Furnished,52 m²,3 rooms,Furnished
+Apartment Wijnhaven,3011 WK Rotterdam (Stadsdriehoek),"€2,195 per month",111 m²/4 rooms/Upholstered,111 m²,4 rooms,Upholstered
+Apartment Deensestraat 45 B,3028 GC Rotterdam (Oud Mathenesse),"€1,095 per month",53 m²/3 rooms/1938,53 m²,3 rooms,1938
+Apartment Oostmaaslaan,3063 AN Rotterdam (Struisenburg),"€1,450 per month",65 m²/3 rooms/Furnished,65 m²,3 rooms,Furnished
+House Burgemeester Meineszlaan,3022 BC Rotterdam (Nieuwe Westen),"€2,800 per month",82 m²/5 rooms,82 m²,5 rooms,
+Apartment Belgischestraat,3028 TB Rotterdam (Oud Mathenesse),€595 per month,45 m²/3 rooms/Shell,45 m²,3 rooms,Shell
+Apartment Bergse Rechter Rottekade 150 B,3051 AC Rotterdam (Hillegersberg Zuid),"€1,495 per month",82 m²/2 rooms/2003,82 m²,2 rooms,2003
+Studio Maaskade,3071 NA Rotterdam (Noordereiland),€650 per month,14 m²/1 room/Upholstered,14 m²,1 room,Upholstered
+Apartment Gordelweg,3036 AA Rotterdam (Oude Noorden),"€1,495 per month",66 m²/4 rooms/Upholstered,66 m²,4 rooms,Upholstered
+Apartment Schiedamsedijk,3011 EH Rotterdam (Stadsdriehoek),"€1,450 per month",75 m²/3 rooms/Furnished,75 m²,3 rooms,Furnished
+Apartment Graaf Florisstraat,3021 CM Rotterdam (Middelland),"€2,250 per month",158 m²/4 rooms/Upholstered,158 m²,4 rooms,Upholstered
+Apartment Louise de Colignylaan,3062 HC Rotterdam (Kralingen Oost),"€1,495 per month",94 m²/3 rooms/Upholstered,94 m²,3 rooms,Upholstered
+Apartment Schepenstraat,3039 NE Rotterdam (Blijdorp),"€1,695 per month",102 m²/4 rooms/Furnished,102 m²,4 rooms,Furnished
+Apartment Bergselaan 202 A,3037 CL Rotterdam (Liskwartier),"€1,800 per month",106 m²/3 rooms/Furnished,106 m²,3 rooms,Furnished
+Apartment Jufferstraat,3011 XL Rotterdam (Stadsdriehoek),"€2,590 per month",80 m²/3 rooms/Furnished,80 m²,3 rooms,Furnished
+House Zwaerdecroonstraat,3021 WV Rotterdam (Middelland),"€2,775 per month",180 m²/5 rooms/Furnished,180 m²,5 rooms,Furnished
+Apartment Baan,3011 CC Rotterdam (Stadsdriehoek),"€2,150 per month",65 m²/2 rooms/Furnished,65 m²,2 rooms,Furnished
+Apartment Dorpsweg,3082 LA Rotterdam (Oud Charlois),"€1,300 per month",80 m²/3 rooms/Upholstered,80 m²,3 rooms,Upholstered
+Apartment Gladiolusstraat,3051 LE Rotterdam (Hillegersberg Zuid),"€1,350 per month",70 m²/3 rooms/Furnished,70 m²,3 rooms,Furnished
+Apartment Mauritsstraat,3012 CJ Rotterdam (Cool),"€1,195 per month",51 m²/3 rooms/Upholstered,51 m²,3 rooms,Upholstered
+Apartment Laan op Zuid 674,3071 AB Rotterdam (Kop van Zuid - Entrepot),"€1,750 per month",95 m²/4 rooms/Upholstered or furnished,95 m²,4 rooms,Upholstered or furnished
+Apartment Dordtsestraatweg,3075 BE Rotterdam (Vreewijk),"€1,350 per month",81 m²/3 rooms/Furnished,81 m²,3 rooms,Furnished
+Apartment Slaak,3061 CZ Rotterdam (Kralingen West),"€1,995 per month",100 m²/4 rooms/Furnished,100 m²,4 rooms,Furnished
+House Plasoord 3 A,3054 LJ Rotterdam (Hillegersberg Noord),"€2,995 per month",158 m²/7 rooms/31 m²,158 m²,7 rooms,31 m²
+Apartment Gladiolusstraat,3051 LE Rotterdam (Hillegersberg Zuid),"€1,350 per month",70 m²/3 rooms/Furnished,70 m²,3 rooms,Furnished
+Apartment Brede Hilledijk,3072 NK Rotterdam (Katendrecht),"€1,378 per month",97 m²/3 rooms/2020,97 m²,3 rooms,2020
+Apartment Brede Hilledijk,3072 NK Rotterdam (Katendrecht),"€1,383 per month",103 m²/3 rooms/2020,103 m²,3 rooms,2020
+Apartment Lange Hilleweg,3073 BM Rotterdam (Bloemhof),"€1,425 per month",74 m²/3 rooms/Upholstered,74 m²,3 rooms,Upholstered
+Apartment Kipstraat,3011 RS Rotterdam (Stadsdriehoek),"€1,500 per month",80 m²/3 rooms/2001-2010,80 m²,3 rooms,2001-2010
+Apartment Walstroplein 39,3056 RL Rotterdam (Terbregge),"€1,800 per month",100 m²/3 rooms/Furnished,100 m²,3 rooms,Furnished
+Apartment Akkermanstraat,3082 WB Rotterdam (Oud Charlois),"€1,200 per month",51 m²/3 rooms/1939,51 m²,3 rooms,1939
+Apartment Willem van Hillegaersbergstraat,3051 RC Rotterdam (Hillegersberg Zuid),"€1,500 per month",87 m²/3 rooms/Upholstered,87 m²,3 rooms,Upholstered
+House Spoorweghaven,3071 ZG Rotterdam (Kop van Zuid - Entrepot),"€4,250 per month",233 m²/6 rooms/Furnished,233 m²,6 rooms,Furnished
+House 1e Jerichostraat 57 B,3061 GC Rotterdam (Kralingen West),"€2,500 per month",110 m²/4 rooms/Furnished,110 m²,4 rooms,Furnished
+Apartment Edmond Hellenraadstraat,3067 NR Rotterdam (Het Lage Land),"€1,395 per month",86 m²/3 rooms/Upholstered,86 m²,3 rooms,Upholstered
+Apartment Stationssingel,3033 HE Rotterdam (Provenierswijk),"€1,595 per month",99 m²/3 rooms/Upholstered,99 m²,3 rooms,Upholstered
+House Burgemeester Meineszlaan,3022 BC Rotterdam (Nieuwe Westen),"€2,800 per month",82 m²/5 rooms,82 m²,5 rooms,
+Apartment Beijerlandselaan,3074 EM Rotterdam (Hillesluis),"€1,650 per month",70 m²/3 rooms/Upholstered,70 m²,3 rooms,Upholstered
+Apartment Fleringenstraat,3077 HE Rotterdam (Beverwaard),"€1,395 per month",73 m²/3 rooms/Upholstered,73 m²,3 rooms,Upholstered
+Apartment Aelbrechtskade 133 A-02,3023 JG Rotterdam (Nieuwe Westen),"€1,225 per month",56 m²/2 rooms/Upholstered,56 m²,2 rooms,Upholstered
+Apartment Mathenesserlaan 321 X,3021 HL Rotterdam (Middelland),"€1,850 per month",104 m²/3 rooms/Upholstered,104 m²,3 rooms,Upholstered
+Apartment Ebenhaëzerstraat,3083 RC Rotterdam (Carnisse),"€1,395 per month",79 m²/3 rooms/Upholstered,79 m²,3 rooms,Upholstered
+Apartment Baan,3011 CC Rotterdam (Stadsdriehoek),"€2,750 per month",72 m²/3 rooms/Upholstered or furnished,72 m²,3 rooms,Upholstered or furnished
+Apartment Middellandplein,3021 BT Rotterdam (Middelland),"€2,500 per month",100 m²/4 rooms/Furnished,100 m²,4 rooms,Furnished
+Apartment Cornelis Heinricksestraat,3078 HH Rotterdam (Groot IJsselmonde),"€1,350 per month",69 m²/3 rooms/Shell,69 m²,3 rooms,Shell
+Apartment Statenlaan,3051 HN Rotterdam (Hillegersberg Zuid),"€1,395 per month",75 m²/2 rooms/Shell,75 m²,2 rooms,Shell
+Apartment Meeuwenstraat,3071 PE Rotterdam (Noordereiland),"€2,500 per month",74 m²/3 rooms/Furnished,74 m²,3 rooms,Furnished
+Apartment Baan,3011 CC Rotterdam (Stadsdriehoek),"€1,695 per month",60 m²/2 rooms/Upholstered,60 m²,2 rooms,Upholstered
+Studio Tamboerstraat,3034 PW Rotterdam (Oud Crooswijk),€700 per month,40 m²/1 room/Upholstered,40 m²,1 room,Upholstered
+Apartment Vredehofweg,3062 EP Rotterdam (Kralingen Oost),"€2,750 per month",145 m²/4 rooms/Upholstered,145 m²,4 rooms,Upholstered
+Apartment Ien Daleshof,3066 KJ Rotterdam (Prinsenland),"€1,650 per month",109 m²/3 rooms/Upholstered,109 m²,3 rooms,Upholstered
+Apartment Wijnhaven,3011 WJ Rotterdam (Stadsdriehoek),"€2,750 per month",123 m²/3 rooms/Upholstered,123 m²,3 rooms,Upholstered
+House Berglustlaan 38 B,3054 BH Rotterdam (Hillegersberg Noord),"€1,995 per month",129 m²/5 rooms/1906-1930,129 m²,5 rooms,1906-1930
+Apartment Boezemlaan,3034 XD Rotterdam (Nieuw Crooswijk),"€1,200 per month",65 m²/2 rooms/Furnished,65 m²,2 rooms,Furnished
+Apartment Terbregselaan,3055 RG Rotterdam (Molenlaankwartier),"€1,500 per month",100 m²/3 rooms/Furnished,100 m²,3 rooms,Furnished
+Apartment Wijnbrugstraat 345,3011 XW Rotterdam (Stadsdriehoek),"€2,500 per month",110 m²/3 rooms/Furnished,110 m²,3 rooms,Furnished
+Apartment Zuidplein,3083 CX Rotterdam (Zuidplein),"€1,695 per month",85 m²/3 rooms/Furnished,85 m²,3 rooms,Furnished
+House Rijsbes 27,3069 LZ Rotterdam (Ommoord),"€2,250 per month",134 m²/5 rooms/Upholstered,134 m²,5 rooms,Upholstered
+Apartment Burgemeester Wijnaendtslaan,3042 CD Rotterdam (Kleinpolder),"€1,595 per month",85 m²/3 rooms/Upholstered,85 m²,3 rooms,Upholstered
+Apartment West-Kruiskade,3014 AM Rotterdam (Oude Westen),"€1,250 per month",30 m²/2 rooms/Furnished,30 m²,2 rooms,Furnished
+Apartment Zuidpolderstraat,3074 XT Rotterdam (Hillesluis),"€1,250 per month",50 m²/4 rooms/Furnished,50 m²,4 rooms,Furnished
+Apartment Voorhaven,3025 HC Rotterdam (Delfshaven),"€1,850 per month",96 m²/2 rooms/Furnished,96 m²,2 rooms,Furnished
+Apartment Jacques Dutilhweg,3065 JH Rotterdam ('s-Gravenland),"€1,455 per month",92 m²/3 rooms/Upholstered,92 m²,3 rooms,Upholstered
+Apartment Goudsesingel,3031 EC Rotterdam (Rubroek),"€1,495 per month",70 m²/2 rooms/Upholstered or furnished,70 m²,2 rooms,Upholstered or furnished
+House Spoorsingel,3033 GH Rotterdam (Provenierswijk),"€2,695 per month",139 m²/4 rooms/Furnished,139 m²,4 rooms,Furnished
+Apartment Paetsstraat 13 c,3039 XM Rotterdam (Blijdorp),"€1,895 per month",109 m²/3 rooms/Furnished,109 m²,3 rooms,Furnished
+Apartment Rodenrijselaan,3037 XE Rotterdam (Liskwartier),"€1,095 per month",61 m²/3 rooms/Upholstered,61 m²,3 rooms,Upholstered
+Apartment Stationssingel,3033 HE Rotterdam (Provenierswijk),"€1,595 per month",99 m²/3 rooms/Upholstered,99 m²,3 rooms,Upholstered
+House Burgemeester Meineszlaan,3022 BC Rotterdam (Nieuwe Westen),"€2,800 per month",82 m²/5 rooms,82 m²,5 rooms,
+Apartment Spoorsingel,3033 GK Rotterdam (Provenierswijk),"€2,250 per month",140 m²/4 rooms/Furnished,140 m²,4 rooms,Furnished
+Apartment Van Vollenhovenstraat,3016 BE Rotterdam (Nieuwe Werk),"€1,650 per month",76 m²/3 rooms/Upholstered,76 m²,3 rooms,Upholstered
+Apartment Texelsestraat,3083 PT Rotterdam (Carnisse),€950 per month,47 m²/2 rooms/Upholstered,47 m²,2 rooms,Upholstered
+Apartment Wijnhaven 69 D,3011 WJ Rotterdam (Stadsdriehoek),"€1,950 per month",90 m²/3 rooms/Upholstered,90 m²,3 rooms,Upholstered
+Apartment Maaskade 97 C02,3071 NG Rotterdam (Noordereiland),"€1,400 per month",56 m²/2 rooms/Furnished,56 m²,2 rooms,Furnished
+Apartment Kruisplein,3012 CC Rotterdam (Cool),"€1,950 per month",82 m²/3 rooms/Furnished,82 m²,3 rooms,Furnished
+Apartment Laan op Zuid,3071 AB Rotterdam (Kop van Zuid - Entrepot),"€1,695 per month",100 m²/3 rooms/Furnished,100 m²,3 rooms,Furnished
+Apartment Noordsingel,3035 EM Rotterdam (Oude Noorden),"€1,495 per month",68 m²/2 rooms/Furnished,68 m²,2 rooms,Furnished
+Apartment Aleidisstraat 7 C,3021 SB Rotterdam (Middelland),"€1,425 per month",82 m²/1 room/2019,82 m²,1 room,2019
+Apartment Wijnhaven 65 a19,3011 WJ Rotterdam (Stadsdriehoek),"€2,300 per month",95 m²/3 rooms/Upholstered,95 m²,3 rooms,Upholstered
+Apartment Baan,3011 CC Rotterdam (Stadsdriehoek),"€1,850 per month",61 m²/2 rooms/Upholstered,61 m²,2 rooms,Upholstered
+Apartment Ochterveltstraat 21 C,3015 XK Rotterdam (Oude Westen),"€1,690 per month",84 m²/3 rooms/Upholstered,84 m²,3 rooms,Upholstered
+Apartment Cleyburchstraat 53 B,3039 DC Rotterdam (Blijdorp),"€1,180 per month",50 m²/2 rooms/Furnished,50 m²,2 rooms,Furnished
+Apartment Halfrond,3071 PP Rotterdam (Kop van Zuid - Entrepot),"€1,595 per month",93 m²/3 rooms/Furnished,93 m²,3 rooms,Furnished
+Apartment Wolphaertsbocht,3083 MR Rotterdam (Carnisse),"€1,075 per month",55 m²/2 rooms/Upholstered,55 m²,2 rooms,Upholstered
+Room Mathenesserdijk 104 A,3027 AK Rotterdam (Spangen),€775 per month,13 m²/1 room/Furnished,13 m²,1 room,Furnished
+House Tulastraat,3084 BZ Rotterdam (Zuiderpark),"€2,250 per month",159 m²/5 rooms/Upholstered,159 m²,5 rooms,Upholstered
+Apartment Baan 52 c,3011 CC Rotterdam (Stadsdriehoek),"€4,500 per month",144 m²/4 rooms/Upholstered,144 m²,4 rooms,Upholstered
+House Molenlaan,3055 EG Rotterdam (Molenlaankwartier),"€3,250 per month",138 m²/6 rooms/1921,138 m²,6 rooms,1921
+Apartment Siciliëboulevard,3059 XT Rotterdam (Nesselande),"€2,495 per month",125 m²/4 rooms/Furnished,125 m²,4 rooms,Furnished
+Apartment Baan,3011 CC Rotterdam (Stadsdriehoek),"€1,650 per month",60 m²/2 rooms/84 m²,60 m²,2 rooms,84 m²
+Apartment Vredehofstraat,3062 TC Rotterdam (Kralingen Oost),"€2,050 per month",97 m²/3 rooms/Upholstered,97 m²,3 rooms,Upholstered
+Apartment Bredenoord,3079 JH Rotterdam (Groot IJsselmonde),€750 per month,55 m²/2 rooms/Upholstered,55 m²,2 rooms,Upholstered
+Apartment Vredehofstraat,3062 TC Rotterdam (Kralingen Oost),"€2,295 per month",97 m²/3 rooms/Upholstered,97 m²,3 rooms,Upholstered
+Apartment Boompjes,3011 XZ Rotterdam (Stadsdriehoek),"€1,700 per month",77 m²/3 rooms/1988,77 m²,3 rooms,1988
+Apartment Boompjes,3011 XZ Rotterdam (Stadsdriehoek),"€1,500 per month",58 m²/2 rooms/1988,58 m²,2 rooms,1988
+Apartment Kipstraat 53 J,3011 ZX Rotterdam (Stadsdriehoek),"€1,275 per month",77 m²/3 rooms/2001,77 m²,3 rooms,2001
+Apartment Maasboulevard,3011 TX Rotterdam (Stadsdriehoek),"€2,650 per month",112 m²/2 rooms/Furnished,112 m²,2 rooms,Furnished
+Apartment Schiedamseweg,3026 AA Rotterdam (Tussendijken),"€1,650 per month",127 m²/5 rooms/Upholstered,127 m²,5 rooms,Upholstered
+Apartment Houtlaan,3016 DA Rotterdam (Nieuwe Werk),"€4,600 per month",160 m²/4 rooms/Upholstered,160 m²,4 rooms,Upholstered
+Apartment Stationssingel,3033 HE Rotterdam (Provenierswijk),"€1,595 per month",99 m²/3 rooms/Upholstered,99 m²,3 rooms,Upholstered
+House Burgemeester Meineszlaan,3022 BC Rotterdam (Nieuwe Westen),"€2,800 per month",82 m²/5 rooms,82 m²,5 rooms,
+Apartment Beijerlandselaan,3074 EJ Rotterdam (Hillesluis),"€1,600 per month",107 m²/4 rooms/Upholstered,107 m²,4 rooms,Upholstered
+Apartment Strevelsweg 96 b1,3075 AN Rotterdam (Vreewijk),€825 per month,60 m²/2 rooms/Upholstered,60 m²,2 rooms,Upholstered
+Apartment De Vliegerstraat,3021 ZR Rotterdam (Middelland),"€2,400 per month",118 m²/3 rooms/Furnished,118 m²,3 rooms,Furnished
+House Elfstedenstraat,3078 ZB Rotterdam (Groot IJsselmonde),"€2,295 per month",162 m²/5 rooms/Upholstered,162 m²,5 rooms,Upholstered
+Apartment Philips Willemstraat 57 G,3051 PN Rotterdam (Hillegersberg Zuid),"€1,560 per month",75 m²/3 rooms/Upholstered,75 m²,3 rooms,Upholstered
+Apartment Weena,3013 AL Rotterdam (Cs Kwartier),"€2,450 per month",131 m²/5 rooms/Furnished,131 m²,5 rooms,Furnished
+Apartment Kruiskade,3012 EG Rotterdam (Cool),"€1,860 per month",112 m²/3 rooms/Upholstered,112 m²,3 rooms,Upholstered
+Apartment Stationssingel,3033 HE Rotterdam (Provenierswijk),"€1,595 per month",99 m²/3 rooms/Upholstered,99 m²,3 rooms,Upholstered
+Apartment Nieuwe Binnenweg,3014 GD Rotterdam (Oude Westen),"€2,250 per month",140 m²/3 rooms/Furnished,140 m²,3 rooms,Furnished
+Apartment Lodewijk Pincoffsweg 464,3071 AS Rotterdam (Kop van Zuid - Entrepot),"€2,250 per month",93 m²/3 rooms/Furnished,93 m²,3 rooms,Furnished
+Apartment Zonnebloemstraat,3051 ST Rotterdam (Hillegersberg Zuid),"€1,900 per month",101 m²/4 rooms/1938,101 m²,4 rooms,1938
+Room Kortekade,3062 GL Rotterdam (Kralingen Oost),€810 per month,23 m²/1 room/Upholstered or furnished,23 m²,1 room,Upholstered or furnished
+Apartment Grote Visserijstraat 78 B01,3026 CM Rotterdam (Tussendijken),"€1,500 per month",75 m²/4 rooms/1925,75 m²,4 rooms,1925
+Apartment Sint-Jacobsplaats 80,3011 DD Rotterdam (Stadsdriehoek),"€1,850 per month",104 m²/4 rooms/Upholstered or furnished,104 m²,4 rooms,Upholstered or furnished
+Apartment Helmersstraat,3071 AD Rotterdam (Kop van Zuid - Entrepot),"€1,750 per month",97 m²/3 rooms/Furnished,97 m²,3 rooms,Furnished
+Apartment Noordsingel 216 B,3032 BM Rotterdam (Agniesebuurt),"€1,600 per month",90 m²/4 rooms/Upholstered,90 m²,4 rooms,Upholstered
+Apartment Blokmakersstraat 11 A,3025 NA Rotterdam (Bospolder),"€1,500 per month",68 m²/3 rooms/Furnished,68 m²,3 rooms,Furnished
+Apartment Gedempte Zalmhaven,3016 DT Rotterdam (Nieuwe Werk),"€2,900 per month",106 m²/4 rooms/Furnished,106 m²,4 rooms,Furnished
+House Catharinastraat,3061 LC Rotterdam (Kralingen West),"€2,700 per month",145 m²/5 rooms/Upholstered,145 m²,5 rooms,Upholstered
+Apartment Aalscholverstraat,3082 ZB Rotterdam (Oud Charlois),"€1,195 per month",98 m²/4 rooms/Upholstered,98 m²,4 rooms,Upholstered
+Apartment Veerlaan,3072 ZX Rotterdam (Katendrecht),"€1,750 per month",72 m²/3 rooms/Furnished,72 m²,3 rooms,Furnished
+Apartment Hebronstraat,3061 KC Rotterdam (Kralingen West),"€1,195 per month",75 m²/4 rooms/1938,75 m²,4 rooms,1938
+Apartment Kritostraat,3076 BH Rotterdam (Lombardijen),"€1,495 per month",70 m²/4 rooms/Upholstered,70 m²,4 rooms,Upholstered
+Apartment Librijesteeg 289,3011 HN Rotterdam (Stadsdriehoek),"€3,500 per month",180 m²/4 rooms/2001-2010,180 m²,4 rooms,2001-2010
+Apartment Stuart Millstraat,3076 RL Rotterdam (Lombardijen),"€1,300 per month",87 m²/3 rooms/1965,87 m²,3 rooms,1965
+Apartment Rijnvoorde,3085 TK Rotterdam (Zuidwijk),"€1,095 per month",60 m²/3 rooms/Furnished,60 m²,3 rooms,Furnished
+Apartment Libellenstraat,3061 VE Rotterdam (Kralingen West),"€1,075 per month",59 m²/2 rooms/Upholstered,59 m²,2 rooms,Upholstered
+Apartment Prins Frederik Hendrikstraat 89,3051 EP Rotterdam (Hillegersberg Zuid),"€1,750 per month",84 m²/4 rooms/Upholstered,84 m²,4 rooms,Upholstered
+Apartment Grotemarkt,3011 PA Rotterdam (Stadsdriehoek),"€2,250 per month",110 m²/2 rooms/Furnished,110 m²,2 rooms,Furnished
+Apartment Blokweg,3074 RJ Rotterdam (Hillesluis),"€1,495 per month",120 m²/4 rooms/Upholstered,120 m²,4 rooms,Upholstered
+Apartment Stationssingel,3033 HE Rotterdam (Provenierswijk),"€1,595 per month",99 m²/3 rooms/Upholstered,99 m²,3 rooms,Upholstered
+House Burgemeester Meineszlaan,3022 BC Rotterdam (Nieuwe Westen),"€2,800 per month",82 m²/5 rooms,82 m²,5 rooms,
+Apartment Weena,3013 CA Rotterdam (Stadsdriehoek),"€1,495 per month",54 m²/2 rooms/Furnished,54 m²,2 rooms,Furnished
+Apartment Argonautenweg,3054 RP Rotterdam (Hillegersberg Noord),"€1,800 per month",71 m²/3 rooms/Furnished,71 m²,3 rooms,Furnished
+Apartment Vlietlaan,3061 DV Rotterdam (Kralingen West),"€1,295 per month",75 m²/3 rooms/Upholstered,75 m²,3 rooms,Upholstered
+Apartment Bierstraat,3011 XA Rotterdam (Stadsdriehoek),"€1,725 per month",86 m²/3 rooms/Furnished,86 m²,3 rooms,Furnished
+Apartment Essenburgsingel 3 B03,3021 AL Rotterdam (Middelland),"€2,250 per month",130 m²/5 rooms/Upholstered or furnished,130 m²,5 rooms,Upholstered or furnished
+Apartment Graaf Balderikstraat,3032 HD Rotterdam (Oude Noorden),"€1,250 per month",42 m²/2 rooms/Furnished,42 m²,2 rooms,Furnished
+House Koolzaadstraat 30,3073 DJ Rotterdam (Bloemhof),"€1,650 per month",94 m²/4 rooms/Upholstered,94 m²,4 rooms,Upholstered
+Apartment Schiedamseweg,3025 AR Rotterdam (Tussendijken),"€1,050 per month",55 m²/2 rooms/1952,55 m²,2 rooms,1952
+Apartment Houtlaan,3016 DA Rotterdam (Nieuwe Werk),"€2,595 per month",91 m²/3 rooms/Upholstered,91 m²,3 rooms,Upholstered
+Apartment Schinkelstraat,3061 MN Rotterdam (Kralingen West),"€1,600 per month",71 m²/3 rooms/2000,71 m²,3 rooms,2000
+Apartment Nieuwe Binnenweg,3015 BH Rotterdam (Oude Westen),"€1,850 per month",110 m²/4 rooms/Furnished,110 m²,4 rooms,Furnished
+Apartment Zwaluwstraat,3082 MK Rotterdam (Oud Charlois),"€1,195 per month",50 m²/3 rooms/Upholstered,50 m²,3 rooms,Upholstered
+Apartment Hilledijk 206 a 01,3074 GB Rotterdam (Hillesluis),"€1,350 per month",85 m²/4 rooms/Upholstered,85 m²,4 rooms,Upholstered
+Apartment Groene Hilledijk 187 a,3073 AC Rotterdam (Bloemhof),€850 per month,93 m²/2 rooms/1926,93 m²,2 rooms,1926
+Apartment Landverhuizersplein,3072 MH Rotterdam (Kop van Zuid),"€2,600 per month",115 m²/3 rooms/Furnished,115 m²,3 rooms,Furnished
+House Heemraadssingel,3023 CD Rotterdam (Nieuwe Westen),"€2,650 per month",112 m²/3 rooms/Upholstered,112 m²,3 rooms,Upholstered
+Apartment Balkenstraat,3027 GA Rotterdam (Spangen),"€1,495 per month",78 m²/4 rooms/Upholstered,78 m²,4 rooms,Upholstered
+Apartment Van Oldenbarneveltplaats 230,3012 AJ Rotterdam (Cool),"€1,365 per month",93 m²/3 rooms/Upholstered,93 m²,3 rooms,Upholstered
+Apartment Oostzeedijk,3063 BD Rotterdam (Struisenburg),"€1,950 per month",110 m²/3 rooms/Furnished,110 m²,3 rooms,Furnished
+Apartment Eendrachtsweg,3012 LD Rotterdam (Cool),Price on request,130 m²/3 rooms/Furnished,130 m²,3 rooms,Furnished
+Apartment Wierdsmaplein 18,3072 MJ Rotterdam (Kop van Zuid),"€2,950 per month",87 m²/3 rooms/Furnished,87 m²,3 rooms,Furnished
+Apartment Schiedamseweg,3026 AG Rotterdam (Tussendijken),"€1,495 per month",65 m²/3 rooms/Furnished,65 m²,3 rooms,Furnished
+Apartment Schieweg 110 C03,3038 BC Rotterdam (Bergpolder),"€1,850 per month",116 m²/3 rooms/Furnished,116 m²,3 rooms,Furnished
+Apartment Boudewijnstraat,3073 ZG Rotterdam (Bloemhof),"€1,295 per month",67 m²/3 rooms/Upholstered,67 m²,3 rooms,Upholstered
+Apartment Noorderhavenkade,3039 RD Rotterdam (Blijdorp),"€1,550 per month",75 m²/3 rooms/Furnished,75 m²,3 rooms,Furnished
+Apartment Akkermanstraat 7 B,3082 WB Rotterdam (Oud Charlois),"€1,250 per month",60 m²/3 rooms/Upholstered or furnished,60 m²,3 rooms,Upholstered or furnished
+Apartment Posthoornstraat,3011 WD Rotterdam (Stadsdriehoek),"€1,795 per month",68 m²/2 rooms/Furnished,68 m²,2 rooms,Furnished
+Apartment Noordsingel 21 B,3035 EG Rotterdam (Agniesebuurt),"€2,300 per month",140 m²/5 rooms/Upholstered,140 m²,5 rooms,Upholstered
+Studio Korenaarstraat,3023 XE Rotterdam (Nieuwe Westen),"€1,050 per month",30 m²/2 rooms/Upholstered,30 m²,2 rooms,Upholstered
+Apartment Heemraadssingel,3022 CB Rotterdam (Nieuwe Westen),"€1,995 per month",110 m²/3 rooms/Upholstered,110 m²,3 rooms,Upholstered
+House Burgemeester Meineszlaan,3022 BC Rotterdam (Nieuwe Westen),"€2,800 per month",82 m²/5 rooms,82 m²,5 rooms,
+Apartment Stationssingel,3033 HE Rotterdam (Provenierswijk),"€1,595 per month",99 m²/3 rooms/Upholstered,99 m²,3 rooms,Upholstered
+Apartment Mariniersweg,3011 NT Rotterdam (Stadsdriehoek),"€2,100 per month",135 m²/6 rooms/Furnished,135 m²,6 rooms,Furnished
+Apartment Zwart Janstraat,3035 AR Rotterdam (Oude Noorden),"€1,350 per month",89 m²/3 rooms/Upholstered,89 m²,3 rooms,Upholstered
+Apartment Nieuwe Binnenweg 167 D,3014 GL Rotterdam (Oude Westen),"€1,750 per month",86 m²/3 rooms/Before 1906,86 m²,3 rooms,Before 1906
+Apartment Jupiterstraat,3054 WH Rotterdam (Hillegersberg Noord),"€1,595 per month",97 m²/2 rooms/Upholstered,97 m²,2 rooms,Upholstered
+Apartment Churchillplein,3011 EW Rotterdam (Stadsdriehoek),"€1,575 per month",80 m²/2 rooms/Furnished,80 m²,2 rooms,Furnished
+Apartment Wijnbrugstraat,3011 XW Rotterdam (Stadsdriehoek),"€1,650 per month",86 m²/3 rooms/Upholstered,86 m²,3 rooms,Upholstered
+Room Katendrechtse Lagedijk 145 A 03,3081 ZR Rotterdam (Tarwewijk),€345 per month,18 m²/1 room,18 m²,1 room,
+House Bloemfonteinstraat,3072 HK Rotterdam (Afrikaanderwijk),"€1,650 per month",95 m²/4 rooms/Upholstered,95 m²,4 rooms,Upholstered
+Room Kortekade,3062 GL Rotterdam (Kralingen Oost),€810 per month,21 m²/1 room/Upholstered or furnished,21 m²,1 room,Upholstered or furnished
+Room Tamboerstraat,3034 PW Rotterdam (Oud Crooswijk),€525 per month,20 m²/1 room/Upholstered,20 m²,1 room,Upholstered
+House Eendrachtsplein,3012 LA Rotterdam (Cool),"€4,950 per month",423 m²/10 rooms/Upholstered,423 m²,10 rooms,Upholstered
+Apartment Chabotlaan,3055 AA Rotterdam (Molenlaankwartier),"€2,892 per month",69 m²/2 rooms/Upholstered,69 m²,2 rooms,Upholstered
+Apartment Groene Hilledijk 174 01,3074 AA Rotterdam (Hillesluis),€950 per month,105 m²/2 rooms/Upholstered,105 m²,2 rooms,Upholstered
+Apartment Zuidplein,3083 CX Rotterdam (Zuidplein),"€1,140 per month",63 m²/3 rooms/Upholstered,63 m²,3 rooms,Upholstered
+Apartment Boezemkade,3031 BB Rotterdam (Rubroek),"€1,325 per month",80 m²/3 rooms/Upholstered,80 m²,3 rooms,Upholstered
+Apartment Goudestein,3085 DB Rotterdam (Zuidwijk),€995 per month,64 m²/3 rooms/Upholstered,64 m²,3 rooms,Upholstered
+Apartment Ajaxstraat,3054 SC Rotterdam (Hillegersberg Noord),"€2,500 per month",100 m²/2 rooms,100 m²,2 rooms,
+House Lamsrustlaan 189 A,3054 VG Rotterdam (Hillegersberg Noord),"€5,500 per month",309 m²/10 rooms/Upholstered or furnished,309 m²,10 rooms,Upholstered or furnished
+Apartment 's-Gravendijkwal 140 B,3015 CC Rotterdam (Oude Westen),"€1,250 per month",62 m²/2 rooms/Upholstered,62 m²,2 rooms,Upholstered
+Apartment Katendrechtse Lagedijk,3083 GR Rotterdam (Oud Charlois),"€1,495 per month",70 m²/3 rooms/Furnished,70 m²,3 rooms,Furnished
+Apartment Westplein,3016 BM Rotterdam (Nieuwe Werk),"€1,895 per month",90 m²/3 rooms/Furnished,90 m²,3 rooms,Furnished
+Apartment Gedempte Zalmhaven,3016 DT Rotterdam (Nieuwe Werk),"€2,900 per month",107 m²/4 rooms/Furnished,107 m²,4 rooms,Furnished
+Apartment Oostmaaslaan,3063 AN Rotterdam (Struisenburg),"€1,450 per month",65 m²/3 rooms/Furnished,65 m²,3 rooms,Furnished
+Apartment Eendrachtsplein,3012 LA Rotterdam (Cool),"€2,500 per month",90 m²/4 rooms/Furnished,90 m²,4 rooms,Furnished
+Apartment Nolensstraat 12 b 01,3039 PT Rotterdam (Blijdorp),"€2,500 per month",106 m²/6 rooms/1932,106 m²,6 rooms,1932
+Room Kleiweg,3051 GK Rotterdam (Hillegersberg Zuid),€455 per month,20 m²/1 room/Upholstered,20 m²,1 room,Upholstered
+Apartment Baan,3011 CC Rotterdam (Stadsdriehoek),"€3,995 per month",140 m²/4 rooms/Upholstered,140 m²,4 rooms,Upholstered
+Apartment Ramlehweg,3061 JW Rotterdam (Kralingen West),"€1,995 per month",116 m²/4 rooms/Upholstered,116 m²,4 rooms,Upholstered
+Apartment Adriaan Kooningsstraat 262,3077 ML Rotterdam (Oud IJsselmonde),"€2,350 per month",120 m²/4 rooms/Upholstered,120 m²,4 rooms,Upholstered
+Apartment Baan,3011 CC Rotterdam (Stadsdriehoek),"€1,650 per month",60 m²/2 rooms/2022,60 m²,2 rooms,2022
+Apartment Oostmaaslaan,3063 AN Rotterdam (Struisenburg),"€1,450 per month",65 m²/3 rooms/Furnished,65 m²,3 rooms,Furnished
+House Burgemeester Meineszlaan,3022 BC Rotterdam (Nieuwe Westen),"€2,800 per month",82 m²/5 rooms,82 m²,5 rooms,
+Apartment Boompjes,3011 XZ Rotterdam (Stadsdriehoek),"€1,750 per month",80 m²/3 rooms/Furnished,80 m²,3 rooms,Furnished
+Apartment Ramlehstraat,3061 JT Rotterdam (Kralingen West),"€1,750 per month",79 m²/3 rooms/Furnished,79 m²,3 rooms,Furnished
+Apartment Kapelstraat 123,3024 CH Rotterdam (Delfshaven),"€1,495 per month",100 m²/3 rooms/Upholstered,100 m²,3 rooms,Upholstered
+Apartment Zuidhoek,3082 PP Rotterdam (Oud Charlois),"€1,450 per month",98 m²/4 rooms/Upholstered,98 m²,4 rooms,Upholstered
+House Insulindestraat,3038 JG Rotterdam (Bergpolder),"€2,150 per month",98 m²/3 rooms/Furnished,98 m²,3 rooms,Furnished
+Apartment Wijnhaven,3011 WJ Rotterdam (Stadsdriehoek),"€2,100 per month",91 m²/3 rooms/Furnished,91 m²,3 rooms,Furnished
+Apartment Rose-Spoorstraat 22,3071 EP Rotterdam (Feijenoord),"€1,595 per month",105 m²/4 rooms/Upholstered,105 m²,4 rooms,Upholstered
+Apartment Aelbrechtskade,3023 JJ Rotterdam (Nieuwe Westen),"€1,450 per month",59 m²/3 rooms/1950,59 m²,3 rooms,1950
+Apartment Noorderhavenkade,3039 RH Rotterdam (Blijdorp),"€1,295 per month",50 m²/3 rooms/Furnished,50 m²,3 rooms,Furnished
+Apartment Vissersdijk 13,3011 GW Rotterdam (Stadsdriehoek),"€1,475 per month",105 m²/3 rooms/Upholstered,105 m²,3 rooms,Upholstered
+Apartment Hoogstraat 109 C,3011 PL Rotterdam (Stadsdriehoek),"€1,299 per month",81 m²/3 rooms/Shell,81 m²,3 rooms,Shell
+Apartment 1e Middellandstraat 9 a,3014 BA Rotterdam (Oude Westen),"€1,450 per month",116 m²/4 rooms/1902,116 m²,4 rooms,1902
+House Ringdijk 74,3052 KS Rotterdam (Schiebroek),"€3,500 per month",213 m²/7 rooms/Upholstered,213 m²,7 rooms,Upholstered
+Apartment Witte de Withstraat,3012 BL Rotterdam (Cool),"€1,700 per month",89 m²/3 rooms/Upholstered or furnished,89 m²,3 rooms,Upholstered or furnished
+Apartment Sonmansstraat 107 B02,3039 DH Rotterdam (Blijdorp),"€2,250 per month",88 m²/5 rooms/Furnished,88 m²,5 rooms,Furnished
+House Dirkslandstraat 16,3086 CK Rotterdam (Pendrecht),"€1,850 per month",127 m²/5 rooms/Upholstered or furnished,127 m²,5 rooms,Upholstered or furnished
+Apartment Ungerplein,3033 BS Rotterdam (Provenierswijk),"€1,995 per month",112 m²/4 rooms/Furnished,112 m²,4 rooms,Furnished
+House Molenlaan 270,3055 GM Rotterdam (Molenlaankwartier),"€2,950 per month",138 m²/6 rooms/Furnished,138 m²,6 rooms,Furnished
+Apartment Stadhoudersweg,3039 EE Rotterdam (Blijdorp),"€1,750 per month",118 m²/4 rooms/Furnished,118 m²,4 rooms,Furnished
+Apartment Gerard Scholtenstraat 29 B,3035 SC Rotterdam (Oude Noorden),"€1,795 per month",95 m²/3 rooms/Furnished,95 m²,3 rooms,Furnished
+Apartment Baan,3011 CC Rotterdam (Stadsdriehoek),"€1,690 per month",60 m²/2 rooms/Upholstered,60 m²,2 rooms,Upholstered
+Apartment Walenburgerplein,3039 AN Rotterdam (Blijdorp),"€1,395 per month",73 m²/2 rooms/Upholstered,73 m²,2 rooms,Upholstered
+Apartment Boezemlaan,3034 XD Rotterdam (Nieuw Crooswijk),"€1,875 per month",102 m²/3 rooms/Furnished,102 m²,3 rooms,Furnished
+Apartment Stoppelstraat,3081 XM Rotterdam (Tarwewijk),"€1,475 per month",80 m²/3 rooms/Shell,80 m²,3 rooms,Shell
+Apartment Crooswijksesingel,3034 CH Rotterdam (Oud Crooswijk),"€2,025 per month",87 m²/3 rooms/Furnished,87 m²,3 rooms,Furnished
+Apartment Westplein,3016 BM Rotterdam (Nieuwe Werk),"€1,970 per month",95 m²/2 rooms/Upholstered,95 m²,2 rooms,Upholstered
+House Benedenrijweg,3077 CJ Rotterdam (Oud IJsselmonde),"€2,595 per month",180 m²/5 rooms/Furnished,180 m²,5 rooms,Furnished
+House Willem van Hillegaersbergstraat,3051 RC Rotterdam (Hillegersberg Zuid),"€2,400 per month",150 m²/5 rooms/Upholstered,150 m²,5 rooms,Upholstered
+Apartment Schiekade,3032 AX Rotterdam (Agniesebuurt),"€1,450 per month",90 m²/3 rooms/Upholstered,90 m²,3 rooms,Upholstered
+Apartment Oudedijk,3061 AX Rotterdam (Kralingen West),"€2,795 per month",132 m²/5 rooms/Upholstered,132 m²,5 rooms,Upholstered
+Apartment Oostmaaslaan,3063 AN Rotterdam (Struisenburg),"€1,450 per month",65 m²/3 rooms/Furnished,65 m²,3 rooms,Furnished
+House Burgemeester Meineszlaan,3022 BC Rotterdam (Nieuwe Westen),"€2,800 per month",82 m²/5 rooms,82 m²,5 rooms,
+Apartment Spoorsingel,3033 GE Rotterdam (Provenierswijk),"€3,300 per month",98 m²/3 rooms/Furnished,98 m²,3 rooms,Furnished
+Apartment Houtlaan,3016 DA Rotterdam (Nieuwe Werk),"€3,600 per month",130 m²/3 rooms/Upholstered or furnished,130 m²,3 rooms,Upholstered or furnished
+Apartment Lloydstraat,3024 EA Rotterdam (Schiemond),"€1,600 per month",79 m²/2 rooms/Furnished,79 m²,2 rooms,Furnished
+Apartment Walenburgerweg,3039 AG Rotterdam (Provenierswijk),"€2,095 per month",113 m²/4 rooms/Furnished,113 m²,4 rooms,Furnished
+Apartment Amelandsestraat,3083 SP Rotterdam (Carnisse),"€1,150 per month",62 m²/3 rooms/Upholstered,62 m²,3 rooms,Upholstered
+Apartment Bergweg 369 A 02,3038 AA Rotterdam (Bergpolder),"€1,030 per month",53 m²/2 rooms/1928,53 m²,2 rooms,1928
+Apartment Hoogstraat,3011 PL Rotterdam (Stadsdriehoek),"€1,850 per month",100 m²/3 rooms/Furnished,100 m²,3 rooms,Furnished
+Apartment 's-Gravendijkwal,3021 EC Rotterdam (Middelland),"€2,500 per month",77 m²/2 rooms/Upholstered,77 m²,2 rooms,Upholstered
+Apartment Tidemanstraat,3022 SJ Rotterdam (Nieuwe Westen),"€1,495 per month",75 m²/3 rooms/Upholstered,75 m²,3 rooms,Upholstered
+Apartment Kleiweg,3051 GK Rotterdam (Hillegersberg Zuid),"€1,695 per month",121 m²/5 rooms/Upholstered,121 m²,5 rooms,Upholstered
+Apartment Nieuwe Binnenweg 167 B,3014 GL Rotterdam (Oude Westen),"€1,800 per month",91 m²/3 rooms/Before 1906,91 m²,3 rooms,Before 1906
+Apartment 1e Virulystraat 3 A,3022 ZL Rotterdam (Nieuwe Westen),"€1,750 per month",100 m²/4 rooms/84 m²,100 m²,4 rooms,84 m²
+Apartment Houtlaan,3016 DA Rotterdam (Nieuwe Werk),"€4,800 per month",161 m²/4 rooms/Furnished,161 m²,4 rooms,Furnished
+House Lijsterlaan 34,3055 CH Rotterdam (Molenlaankwartier),"€2,500 per month",110 m²/5 rooms/Upholstered,110 m²,5 rooms,Upholstered
+Apartment Schieweg 3 01,3038 AB Rotterdam (Bergpolder),"€1,000 per month",68 m²/2 rooms/1928,68 m²,2 rooms,1928
+Apartment Van Bijlandtplaats,3012 GA Rotterdam (Cool),"€1,961 per month",105 m²/4 rooms/Shell,105 m²,4 rooms,Shell
+Apartment Grote Visserijstraat,3026 CN Rotterdam (Tussendijken),"€1,190 per month",75 m²/3 rooms/Shell,75 m²,3 rooms,Shell
+Apartment Bergweg,3037 EM Rotterdam (Liskwartier),"€2,500 per month",80 m²/3 rooms/Furnished,80 m²,3 rooms,Furnished
+Apartment Bergweg,3037 EM Rotterdam (Liskwartier),"€1,970 per month",52 m²/2 rooms/Furnished,52 m²,2 rooms,Furnished
+Apartment Halvemaanpassage,3011 DL Rotterdam (Stadsdriehoek),"€2,795 per month",90 m²/3 rooms/Furnished,90 m²,3 rooms,Furnished
+Apartment Wijnbrugstraat,3011 XW Rotterdam (Stadsdriehoek),"€1,650 per month",75 m²/3 rooms/Upholstered,75 m²,3 rooms,Upholstered
+Apartment Van Swietenlaan,3083 DW Rotterdam (Zuidplein),"€1,095 per month",56 m²/2 rooms/Upholstered,56 m²,2 rooms,Upholstered
+House Mahatma Gandhistraat,3066 VA Rotterdam (Prinsenland),"€2,750 per month",224 m²/5 rooms/Upholstered,224 m²,5 rooms,Upholstered
+Apartment De Lairesselaan,3062 PJ Rotterdam (Kralingen Oost),"€2,000 per month",98 m²/3 rooms/Furnished,98 m²,3 rooms,Furnished
+Apartment Wijnhaven,3011 WJ Rotterdam (Stadsdriehoek),"€3,200 per month",139 m²/5 rooms/Upholstered,139 m²,5 rooms,Upholstered
+Apartment Crooswijksesingel,3034 CH Rotterdam (Rubroek),"€1,505 per month",49 m²/2 rooms/Furnished,49 m²,2 rooms,Furnished
+Apartment Rozenburglaan 90 A,3062 EH Rotterdam (Kralingen Oost),"€2,100 per month",160 m²/6 rooms/Upholstered,160 m²,6 rooms,Upholstered
+Apartment Nieuwe Binnenweg 167 C,3014 GL Rotterdam (Oude Westen),"€1,700 per month",78 m²/3 rooms/Upholstered,78 m²,3 rooms,Upholstered
+Apartment Aelbrechtskolk 25 A03,3025 HA Rotterdam (Bospolder),"€1,195 per month",50 m²/2 rooms/Upholstered,50 m²,2 rooms,Upholstered
+Apartment Van Vollenhovenstraat,3016 BH Rotterdam (Nieuwe Werk),"€1,695 per month",67 m²/2 rooms/Furnished,67 m²,2 rooms,Furnished
+Apartment Stationssingel,3033 HE Rotterdam (Provenierswijk),"€1,595 per month",99 m²/3 rooms/Upholstered,99 m²,3 rooms,Upholstered
+Apartment Oostmaaslaan,3063 AN Rotterdam (Struisenburg),"€1,450 per month",65 m²/3 rooms/Furnished,65 m²,3 rooms,Furnished
+Studio Mijnsherenlaan,3081 GP Rotterdam (Tarwewijk),€900 per month,18 m²/2 rooms/Upholstered,18 m²,2 rooms,Upholstered
+Apartment Westerbeekstraat 10 C,3074 DH Rotterdam (Hillesluis),"€1,300 per month",45 m²/3 rooms/1929,45 m²,3 rooms,1929
+Apartment Schiedamseweg 96 A,3025 AG Rotterdam (Bospolder),"€1,850 per month",113 m²/4 rooms/Upholstered,113 m²,4 rooms,Upholstered
+Room Zuidhoek,3082 PS Rotterdam (Oud Charlois),€450 per month,16 m²/1 room/Upholstered,16 m²,1 room,Upholstered
+Apartment Walenburgerweg,3033 AG Rotterdam (Provenierswijk),"€1,360 per month",77 m²/3 rooms/Furnished,77 m²,3 rooms,Furnished
+Apartment Spangesekade,3027 GK Rotterdam (Spangen),"€1,495 per month",90 m²/4 rooms/Upholstered,90 m²,4 rooms,Upholstered
+Room Oostmaaslaan,3063 AP Rotterdam (Struisenburg),€735 per month,20 m²/1 room/Upholstered or furnished,20 m²,1 room,Upholstered or furnished
+Apartment Gedempte Zalmhaven,3016 DT Rotterdam (Nieuwe Werk),"€3,950 per month",219 m²/4 rooms/Upholstered,219 m²,4 rooms,Upholstered
+Apartment Kleiweg 135 A,3051 GN Rotterdam (Hillegersberg Zuid),"€2,550 per month",106 m²/6 rooms/Upholstered,106 m²,6 rooms,Upholstered
+Apartment Wijnhaven 65 C30,3011 WJ Rotterdam (Stadsdriehoek),"€3,300 per month",136 m²/4 rooms/Upholstered,136 m²,4 rooms,Upholstered
+House Boompjes,3011 XB Rotterdam (Stadsdriehoek),"€1,660 per month",83 m²/3 rooms/2021,83 m²,3 rooms,2021
+Apartment Bergpolderstraat,3038 KA Rotterdam (Bergpolder),"€1,225 per month",54 m²/2 rooms/Upholstered,54 m²,2 rooms,Upholstered
+House Burgemeester Meineszlaan,3022 BC Rotterdam (Nieuwe Westen),"€2,800 per month",82 m²/5 rooms,82 m²,5 rooms,
+Apartment Corverstraat 18 A,3025 TC Rotterdam (Bospolder),"€1,650 per month",90 m²/4 rooms/Upholstered,90 m²,4 rooms,Upholstered
+Apartment Mathenesserlaan 370 B1,3023 HB Rotterdam (Nieuwe Westen),"€1,595 per month",88 m²/2 rooms/Upholstered,88 m²,2 rooms,Upholstered
+Apartment Mathenesserlaan 370 B2,3023 HB Rotterdam (Nieuwe Westen),"€1,595 per month",88 m²/2 rooms/Upholstered,88 m²,2 rooms,Upholstered
+House Arie Hoospad,3065 NM Rotterdam ('s-Gravenland),"€2,700 per month",150 m²/5 rooms/Furnished,150 m²,5 rooms,Furnished
+Apartment Houtlaan,3016 DA Rotterdam (Nieuwe Werk),"€3,500 per month",132 m²/4 rooms/Furnished,132 m²,4 rooms,Furnished
+Apartment Kruisplein,3012 CC Rotterdam (Cool),"€2,495 per month",86 m²/3 rooms/Furnished,86 m²,3 rooms,Furnished
+Apartment Van Vollenhovenstraat,3016 BE Rotterdam (Nieuwe Werk),"€1,395 per month",84 m²/2 rooms/Upholstered,84 m²,2 rooms,Upholstered
+Apartment Puck van Heelstraat 144,3077 MG Rotterdam (Oud IJsselmonde),"€2,750 per month",145 m²/4 rooms/Furnished,145 m²,4 rooms,Furnished
+Apartment Voermanweg,3067 JW Rotterdam (Oosterflank),"€1,495 per month",60 m²/1 room/Furnished,60 m²,1 room,Furnished
+Apartment Roo-Valkstraat,3032 RD Rotterdam (Agniesebuurt),"€1,750 per month",75 m²/2 rooms/Furnished,75 m²,2 rooms,Furnished
+Apartment Mistralstraat,3077 ZB Rotterdam (Oud IJsselmonde),"€1,575 per month",82 m²/3 rooms/Upholstered,82 m²,3 rooms,Upholstered
+Room Putsebocht,3073 HK Rotterdam (Bloemhof),€750 per month,20 m²/1 room/Upholstered,20 m²,1 room,Upholstered
+Apartment Puck van Heelstraat,3077 MG Rotterdam (Oud IJsselmonde),"€2,749 per month",143 m²/4 rooms/Furnished,143 m²,4 rooms,Furnished
+Apartment Jan Porcellisstraat 30 B,3021 TS Rotterdam (Middelland),"€1,550 per month",75 m²/2 rooms/Furnished,75 m²,2 rooms,Furnished
+House Rotterdamse Rijweg,3042 AM Rotterdam (Kleinpolder),"€2,250 per month",162 m²/5 rooms/Furnished,162 m²,5 rooms,Furnished
+Apartment Müllerkade 433,3024 EP Rotterdam (Schiemond),"€1,895 per month",86 m²/3 rooms/Furnished,86 m²,3 rooms,Furnished
+Apartment Stuart Millstraat,3076 RL Rotterdam (Lombardijen),"€1,995 per month",80 m²/4 rooms/Furnished,80 m²,4 rooms,Furnished
+Apartment Oostmaaslaan,3063 AN Rotterdam (Struisenburg),"€1,450 per month",65 m²/3 rooms/Furnished,65 m²,3 rooms,Furnished
+Apartment Stationssingel,3033 HE Rotterdam (Provenierswijk),"€1,595 per month",99 m²/3 rooms/Upholstered,99 m²,3 rooms,Upholstered
+Apartment Noordsingel,3035 EM Rotterdam (Oude Noorden),"€1,900 per month",70 m²/2 rooms/Furnished,70 m²,2 rooms,Furnished
+Apartment Hoofdweg,3067 GJ Rotterdam (Het Lage Land),€960 per month,48 m²/1 room/Upholstered,48 m²,1 room,Upholstered
+Apartment Buizenwerf,3063 AD Rotterdam (Struisenburg),"€1,450 per month",77 m²/2 rooms/1969,77 m²,2 rooms,1969
+Apartment Hoofdweg,3067 GJ Rotterdam (Het Lage Land),€955 per month,47 m²/1 room/Upholstered,47 m²,1 room,Upholstered
+Apartment Schietbaanlaan 6 a,3021 LJ Rotterdam (Middelland),"€1,995 per month",157 m²/4 rooms/1899,157 m²,4 rooms,1899
+Studio Oudedijk,3061 AB Rotterdam (Kralingen West),"€1,450 per month",28 m²/1 room/Furnished,28 m²,1 room,Furnished
+Apartment Eric Kropstraat 118,3071 AE Rotterdam (Kop van Zuid - Entrepot),"€2,995 per month",255 m²/3 rooms/Furnished,255 m²,3 rooms,Furnished
+Apartment Prins Hendriklaan,3071 LE Rotterdam (Noordereiland),"€2,500 per month",140 m²/5 rooms/Upholstered,140 m²,5 rooms,Upholstered
+Apartment Zuidplein,3083 CV Rotterdam (Zuidplein),"€2,675 per month",88 m²/4 rooms/Furnished,88 m²,4 rooms,Furnished
+Room Willemskade,3016 DK Rotterdam (Nieuwe Werk),€422 per month,16 m²/1 room/Furnished,16 m²,1 room,Furnished
+Apartment Van der Duijn van Maasdamweg,3045 PE Rotterdam (Zestienhoven),"€1,475 per month",79 m²/2 rooms/Furnished,79 m²,2 rooms,Furnished
+Apartment Grotemarkt,3011 PA Rotterdam (Stadsdriehoek),"€6,900 per month",321 m²/6 rooms/Furnished,321 m²,6 rooms,Furnished
+Apartment Vasaristraat,3066 LH Rotterdam (Prinsenland),"€2,100 per month",88 m²/4 rooms/Upholstered,88 m²,4 rooms,Upholstered
+Apartment Pendrechtstraat 5 A,3082 XA Rotterdam (Oud Charlois),"€1,800 per month",95 m²/5 rooms/Upholstered,95 m²,5 rooms,Upholstered
+Room Provenierssingel,3033 EK Rotterdam (Provenierswijk),€975 per month,25 m²/1 room/Furnished,25 m²,1 room,Furnished
+Apartment Schiebroekselaan,3037 RL Rotterdam (Liskwartier),"€2,250 per month",138 m²/5 rooms/Furnished,138 m²,5 rooms,Furnished
+Apartment Boompjes,3011 XB Rotterdam (Stadsdriehoek),"€1,890 per month",96 m²/3 rooms/2021,96 m²,3 rooms,2021
+Apartment Statenweg,3039 HK Rotterdam (Blijdorp),"€1,400 per month",116 m²/4 rooms/Shell,116 m²,4 rooms,Shell
+Apartment Feijenoordkade,3071 HK Rotterdam (Feijenoord),"€2,100 per month",140 m²/4 rooms/Upholstered,140 m²,4 rooms,Upholstered
+Apartment Chris Bennekerslaan,3061 EB Rotterdam (Kralingen West),"€1,995 per month",157 m²/4 rooms/Upholstered,157 m²,4 rooms,Upholstered
+House Jericholaan,3061 HD Rotterdam (Kralingen West),"€3,500 per month",216 m²/8 rooms/Upholstered,216 m²,8 rooms,Upholstered
+Apartment Schiekade,3033 BE Rotterdam (Agniesebuurt),"€2,500 per month",95 m²/4 rooms/Upholstered,95 m²,4 rooms,Upholstered
+Apartment Schietbaanlaan,3021 LP Rotterdam (Middelland),"€2,250 per month",128 m²/3 rooms/Upholstered,128 m²,3 rooms,Upholstered
+Apartment Claes de Vrieselaan,3021 JR Rotterdam (Middelland),"€2,500 per month",141 m²/5 rooms/Upholstered,141 m²,5 rooms,Upholstered
+Apartment Schiekade,3033 BE Rotterdam (Agniesebuurt),"€2,500 per month",95 m²/4 rooms/Upholstered,95 m²,4 rooms,Upholstered
+Apartment Waterloostraat,3062 TS Rotterdam (Kralingen Oost),"€2,250 per month",88 m²/3 rooms/Upholstered,88 m²,3 rooms,Upholstered
+Apartment Claes de Vrieselaan,3021 JR Rotterdam (Middelland),"€2,500 per month",157 m²/4 rooms/Upholstered,157 m²,4 rooms,Upholstered
+Apartment Provenierssingel,3033 EM Rotterdam (Provenierswijk),"€2,500 per month",127 m²/4 rooms/Upholstered,127 m²,4 rooms,Upholstered
+Apartment Oostzeedijk Beneden,3062 VK Rotterdam (Kralingen Oost),"€2,500 per month",118 m²/4 rooms/Upholstered,118 m²,4 rooms,Upholstered
+Apartment Waterloostraat,3062 TS Rotterdam (Kralingen Oost),"€2,250 per month",88 m²/3 rooms/Upholstered,88 m²,3 rooms,Upholstered
+House Burgemeester Meineszlaan,3022 BC Rotterdam (Nieuwe Westen),"€2,800 per month",82 m²/5 rooms,82 m²,5 rooms,
+Apartment Stationssingel,3033 HE Rotterdam (Provenierswijk),"€1,595 per month",99 m²/3 rooms/Upholstered,99 m²,3 rooms,Upholstered
+Apartment Heemraadssingel 103 E,3022 CB Rotterdam (Nieuwe Westen),"€1,995 per month",110 m²/3 rooms/Upholstered,110 m²,3 rooms,Upholstered
+Apartment Vijverlaan,3062 HK Rotterdam (Kralingen Oost),"€2,250 per month",97 m²/3 rooms/Furnished,97 m²,3 rooms,Furnished
+Apartment Adriaen Nimantsstraat,3074 NG Rotterdam (Hillesluis),"€2,125 per month",85 m²/3 rooms/Upholstered,85 m²,3 rooms,Upholstered
+Apartment Adriaen Nimantsstraat,3074 NG Rotterdam (Hillesluis),"€1,700 per month",76 m²/3 rooms/Upholstered,76 m²,3 rooms,Upholstered
+Apartment Oosterkade,3011 TV Rotterdam (Stadsdriehoek),"€2,695 per month",180 m²/3 rooms/Furnished,180 m²,3 rooms,Furnished
+Studio Witte de Withstraat,3012 BT Rotterdam (Cool),"€1,500 per month",50 m²/1 room/Furnished,50 m²,1 room,Furnished
+House Van der Kloot Meyburgstraat,3067 EP Rotterdam (Het Lage Land),"€2,500 per month",123 m²/6 rooms/Furnished,123 m²,6 rooms,Furnished
+Apartment Bergsingel,3037 GA Rotterdam (Liskwartier),"€2,350 per month",100 m²/4 rooms/Furnished,100 m²,4 rooms,Furnished
+Apartment Kappeynestraat 5 A,3039 PE Rotterdam (Blijdorp),"€2,000 per month",80 m²/3 rooms/Furnished,80 m²,3 rooms,Furnished
+Apartment Bulgersteyn,3011 AB Rotterdam (Stadsdriehoek),"€1,995 per month",95 m²/3 rooms/Furnished,95 m²,3 rooms,Furnished
+Apartment Kruiskade,3012 EG Rotterdam (Cool),"€1,800 per month",135 m²/3 rooms/Upholstered,135 m²,3 rooms,Upholstered
+Apartment Joost van Geelstraat,3021 VK Rotterdam (Middelland),"€1,075 per month",70 m²/2 rooms/Upholstered,70 m²,2 rooms,Upholstered
+Apartment Vignolahof 14,3066 AV Rotterdam (Prinsenland),"€2,450 per month",96 m²/4 rooms/Furnished,96 m²,4 rooms,Furnished
+Apartment Berberisweg 446 B,3053 PL Rotterdam (Schiebroek),"€1,638 per month",89 m²/3 rooms/Shell,89 m²,3 rooms,Shell
+Apartment Berberisweg 440 D,3053 PL Rotterdam (Schiebroek),"€1,592 per month",89 m²/3 rooms/Shell,89 m²,3 rooms,Shell
+Apartment Berberisweg 440 F,3053 PL Rotterdam (Schiebroek),"€1,592 per month",89 m²/3 rooms/Shell,89 m²,3 rooms,Shell
+Apartment Berberisweg 438 B,3053 PL Rotterdam (Schiebroek),"€1,546 per month",89 m²/3 rooms/Shell,89 m²,3 rooms,Shell
+Apartment Berberisweg 444 H,3053 PL Rotterdam (Schiebroek),"€1,769 per month",107 m²/3 rooms/Shell,107 m²,3 rooms,Shell
+Apartment Berberisweg 438 F,3053 PL Rotterdam (Schiebroek),"€1,546 per month",89 m²/3 rooms/Shell,89 m²,3 rooms,Shell
+Apartment Joost van Geelstraat,3021 VK Rotterdam (Middelland),€995 per month,70 m²/3 rooms/Upholstered,70 m²,3 rooms,Upholstered
+Apartment Lisstraat,3037 RA Rotterdam (Liskwartier),€975 per month,50 m²/3 rooms/Upholstered,50 m²,3 rooms,Upholstered
+Apartment Hugo Molenaarstraat,3022 NS Rotterdam (Nieuwe Westen),"€1,175 per month",108 m²/5 rooms/Upholstered,108 m²,5 rooms,Upholstered
+Apartment Hugo Molenaarstraat,3022 NS Rotterdam (Nieuwe Westen),€975 per month,64 m²/2 rooms/Upholstered,64 m²,2 rooms,Upholstered
+Apartment Statensingel,3039 LT Rotterdam (Blijdorp),"€1,995 per month",120 m²/4 rooms/Furnished,120 m²,4 rooms,Furnished
+Apartment Schiebroekselaan,3037 RL Rotterdam (Liskwartier),"€1,900 per month",128 m²/3 rooms/Furnished,128 m²,3 rooms,Furnished
+Apartment Willemskade,3016 DL Rotterdam (Nieuwe Werk),"€1,950 per month",80 m²/2 rooms/Upholstered,80 m²,2 rooms,Upholstered
+Apartment Streksingel 221,3054 HH Rotterdam (Hillegersberg Noord),"€1,250 per month",60 m²/2 rooms/Upholstered,60 m²,2 rooms,Upholstered
+Apartment Noordplein,3035 EE Rotterdam (Oude Noorden),"€2,100 per month",90 m²/3 rooms/Furnished,90 m²,3 rooms,Furnished
+Apartment Oppert,3011 HV Rotterdam (Stadsdriehoek),"€2,500 per month",93 m²/3 rooms/Furnished,93 m²,3 rooms,Furnished
+Apartment Molenwaterweg,3033 CA Rotterdam (Provenierswijk),"€1,200 per month",65 m²/3 rooms/Upholstered,65 m²,3 rooms,Upholstered
+House Burgemeester Meineszlaan,3022 BC Rotterdam (Nieuwe Westen),"€2,800 per month",82 m²/5 rooms,82 m²,5 rooms,
+Apartment Stationssingel,3033 HE Rotterdam (Provenierswijk),"€1,595 per month",99 m²/3 rooms/Upholstered,99 m²,3 rooms,Upholstered
+House Donkerslootstraat,3074 WE Rotterdam (Hillesluis),"€1,995 per month",143 m²/5 rooms/Upholstered,143 m²,5 rooms,Upholstered
+Apartment Cor Kieboomplein,3077 MK Rotterdam (Oud IJsselmonde),"€2,495 per month",130 m²/4 rooms/Furnished,130 m²,4 rooms,Furnished
+Apartment Boompjes,3011 XZ Rotterdam (Stadsdriehoek),"€2,000 per month",60 m²/3 rooms/Furnished,60 m²,3 rooms,Furnished
+Apartment Gedempte Zalmhaven,3011 BT Rotterdam (Stadsdriehoek),"€2,795 per month",102 m²/3 rooms/Upholstered,102 m²,3 rooms,Upholstered
+Apartment Gedempte Zalmhaven,3016 DT Rotterdam (Nieuwe Werk),"€3,195 per month",111 m²/4 rooms/Upholstered,111 m²,4 rooms,Upholstered
+Apartment Noordplein,3035 EE Rotterdam (Oude Noorden),"€2,300 per month",90 m²/3 rooms/Furnished,90 m²,3 rooms,Furnished
 Apartment Kruiskade,3012 EG Rotterdam (Cool),"€1,350 per month",78 m²/2 rooms/Shell,78 m²,2 rooms,Shell
-Apartment Statenweg,3039 HL Rotterdam (Blijdorp),"€1,300 per month",125 m²/4 rooms/Upholstered,125 m²,4 rooms,Upholstered
+Apartment Berberisweg 412,3053 PL Rotterdam (Schiebroek),"€1,672 per month",91 m²/3 rooms/Shell,91 m²,3 rooms,Shell
+Apartment Berberisweg 414,3053 PL Rotterdam (Schiebroek),"€1,757 per month",106 m²/3 rooms/Shell,106 m²,3 rooms,Shell
+Apartment Berberisweg 406,3053 PL Rotterdam (Schiebroek),"€1,757 per month",106 m²/3 rooms/Shell,106 m²,3 rooms,Shell
+Apartment Kruiskade,3012 EG Rotterdam (Cool),"€1,250 per month",78 m²/2 rooms/Shell,78 m²,2 rooms,Shell
+Apartment Noordplein,3035 EE Rotterdam (Oude Noorden),"€3,000 per month",140 m²/4 rooms/Furnished,140 m²,4 rooms,Furnished
+Apartment Binnenrotte,3011 HB Rotterdam (Stadsdriehoek),"€2,700 per month",120 m²/4 rooms/Furnished,120 m²,4 rooms,Furnished
+House Jaffa,3061 JK Rotterdam (Kralingen West),"€3,200 per month",140 m²/5 rooms/Furnished,140 m²,5 rooms,Furnished
+Apartment Noordplein,3035 EE Rotterdam (Oude Noorden),"€2,300 per month",90 m²/4 rooms/Furnished,90 m²,4 rooms,Furnished
+House Avenue Concordia,3062 LM Rotterdam (Kralingen Oost),"€3,250 per month",300 m²/7 rooms/Upholstered,300 m²,7 rooms,Upholstered
+Apartment Kruiskade,3012 EG Rotterdam (Cool),"€1,575 per month",126 m²/3 rooms/Upholstered,126 m²,3 rooms,Upholstered
+Apartment Louise de Colignylaan,3062 HN Rotterdam (Kralingen Oost),"€1,950 per month",100 m²/2 rooms/Upholstered,100 m²,2 rooms,Upholstered
+House Larikslaan,3053 LK Rotterdam (Schiebroek),"€2,995 per month",134 m²/4 rooms/Furnished,134 m²,4 rooms,Furnished
+Apartment Gedempte Zalmhaven,3016 DT Rotterdam (Nieuwe Werk),"€3,500 per month",111 m²/4 rooms/Furnished,111 m²,4 rooms,Furnished
+Apartment Boompjes,3011 XZ Rotterdam (Stadsdriehoek),"€2,550 per month",80 m²/2 rooms/Furnished,80 m²,2 rooms,Furnished
+Studio Weena,3014 DA Rotterdam (Cs Kwartier),"€2,995 per month",65 m²/1 room/Furnished,65 m²,1 room,Furnished
+Apartment Kruiskade,3012 EG Rotterdam (Cool),"€1,350 per month",78 m²/2 rooms/Shell,78 m²,2 rooms,Shell
+Apartment Kruiskade,3012 EG Rotterdam (Cool),"€1,785 per month",120 m²/3 rooms/Upholstered,120 m²,3 rooms,Upholstered
+Studio Eendrachtsweg,3012 LG Rotterdam (Cool),"€1,525 per month",50 m²/1 room/Furnished,50 m²,1 room,Furnished
+Studio Eendrachtsweg,3012 LG Rotterdam (Cool),"€1,550 per month",50 m²/1 room/Furnished,50 m²,1 room,Furnished
+Apartment Kruiskade,3012 EG Rotterdam (Cool),"€1,250 per month",78 m²/2 rooms/Shell,78 m²,2 rooms,Shell
+Apartment Mathenesserlaan,3021 HC Rotterdam (Middelland),"€1,650 per month",65 m²/2 rooms/Furnished,65 m²,2 rooms,Furnished
+Apartment Kruiskade,3012 EG Rotterdam (Cool),"€1,250 per month",78 m²/2 rooms/Shell,78 m²,2 rooms,Shell
+Apartment De Monchyplein,3072 MM Rotterdam (Kop van Zuid),"€2,995 per month",100 m²/4 rooms/Furnished,100 m²,4 rooms,Furnished
+House Burgemeester Meineszlaan,3022 BC Rotterdam (Nieuwe Westen),"€2,800 per month",82 m²/5 rooms,82 m²,5 rooms,
+Apartment Oostmaaslaan,3063 AN Rotterdam (Struisenburg),"€1,450 per month",65 m²/3 rooms/Furnished,65 m²,3 rooms,Furnished
+Apartment Kruiskade,3012 EG Rotterdam (Cool),"€1,250 per month",83 m²/2 rooms/Upholstered,83 m²,2 rooms,Upholstered
+Apartment Mauritsstraat,3012 CH Rotterdam (Cool),"€1,725 per month",50 m²/3 rooms/Furnished,50 m²,3 rooms,Furnished
+Apartment Zuidplein,3083 CR Rotterdam (Zuidplein),€750 per month,40 m²/3 rooms/1949,40 m²,3 rooms,1949
+Apartment Mauritsstraat,3012 CH Rotterdam (Cool),"€1,450 per month",33 m²/1 room/Furnished,33 m²,1 room,Furnished
+Apartment Mauritsstraat,3012 CH Rotterdam (Cool),"€1,495 per month",40 m²/1 room/Furnished,40 m²,1 room,Furnished
+Apartment Mauritsstraat,3012 CH Rotterdam (Cool),"€1,495 per month",40 m²/1 room/Furnished,40 m²,1 room,Furnished
+Apartment Mauritsstraat,3012 CH Rotterdam (Cool),"€1,495 per month",40 m²/1 room/Furnished,40 m²,1 room,Furnished
+Apartment Mauritsstraat,3012 CH Rotterdam (Cool),"€1,695 per month",50 m²/3 rooms/Furnished,50 m²,3 rooms,Furnished
+Apartment Mauritsstraat,3012 CH Rotterdam (Cool),"€1,425 per month",33 m²/1 room/Furnished,33 m²,1 room,Furnished
+Apartment Mauritsstraat,3012 CH Rotterdam (Cool),"€1,695 per month",50 m²/3 rooms/Furnished,50 m²,3 rooms,Furnished
+Apartment Mauritsstraat,3012 CH Rotterdam (Cool),"€1,525 per month",40 m²/1 room/Furnished,40 m²,1 room,Furnished
+Apartment Mauritsstraat,3012 CH Rotterdam (Cool),"€1,495 per month",40 m²/1 room/Furnished,40 m²,1 room,Furnished
+Apartment Mauritsstraat,3012 CH Rotterdam (Cool),"€1,425 per month",33 m²/1 room/Furnished,33 m²,1 room,Furnished
+Apartment Statenweg,3039 HL Rotterdam (Blijdorp),"€1,250 per month",125 m²/3 rooms/Upholstered,125 m²,3 rooms,Upholstered
+Apartment Mauritsstraat,3012 CH Rotterdam (Cool),"€1,695 per month",45 m²/3 rooms/Furnished,45 m²,3 rooms,Furnished
+Apartment Mauritsstraat,3012 CH Rotterdam (Cool),"€1,395 per month",33 m²/1 room/Furnished,33 m²,1 room,Furnished
+Studio Eendrachtsweg,3012 LG Rotterdam (Cool),"€1,700 per month",50 m²/1 room/Furnished,50 m²,1 room,Furnished
+Studio Eendrachtsweg,3012 LG Rotterdam (Cool),"€1,500 per month",50 m²/1 room/Furnished,50 m²,1 room,Furnished
+Studio Eendrachtsweg,3012 LG Rotterdam (Cool),"€1,575 per month",50 m²/1 room/Furnished,50 m²,1 room,Furnished
+Studio Eendrachtsweg,3012 LG Rotterdam (Cool),"€1,650 per month",50 m²/1 room/Furnished,50 m²,1 room,Furnished
+Studio Eendrachtsweg,3012 LG Rotterdam (Cool),"€1,675 per month",50 m²/1 room/Furnished,50 m²,1 room,Furnished
+Studio Granadoslaan,3055 RC Rotterdam (Molenlaankwartier),€955 per month,40 m²/1 room/Furnished,40 m²,1 room,Furnished
+Studio Eendrachtsweg,3012 LG Rotterdam (Cool),"€1,550 per month",50 m²/1 room/Furnished,50 m²,1 room,Furnished
+Studio Eendrachtsweg,3012 LG Rotterdam (Cool),"€1,500 per month",50 m²/1 room/Furnished,50 m²,1 room,Furnished
+Studio Eendrachtsweg,3012 LG Rotterdam (Cool),"€1,650 per month",50 m²/1 room/Furnished,50 m²,1 room,Furnished
+Studio Witte de Withstraat,3012 BT Rotterdam (Cool),"€1,350 per month",50 m²/1 room/Furnished,50 m²,1 room,Furnished
+Apartment Kruiskade,3012 EG Rotterdam (Cool),"€2,065 per month",111 m²/3 rooms/Upholstered,111 m²,3 rooms,Upholstered
+Apartment Kruiskade,3012 EG Rotterdam (Cool),"€1,550 per month",83 m²/2 rooms/Upholstered,83 m²,2 rooms,Upholstered
+Apartment Kruiskade,3012 EG Rotterdam (Cool),"€1,995 per month",83 m²/2 rooms/Upholstered or furnished,83 m²,2 rooms,Upholstered or furnished
+Apartment Kruiskade,3012 EG Rotterdam (Cool),"€1,775 per month",83 m²/2 rooms/Upholstered or furnished,83 m²,2 rooms,Upholstered or furnished
+Apartment Stationssingel,3033 HE Rotterdam (Provenierswijk),"€1,595 per month",99 m²/3 rooms/Upholstered,99 m²,3 rooms,Upholstered
+Apartment Oostmaaslaan,3063 AN Rotterdam (Struisenburg),"€1,450 per month",65 m²/3 rooms/Furnished,65 m²,3 rooms,Furnished
+Apartment Kruiskade,3012 EG Rotterdam (Cool),"€1,995 per month",83 m²/2 rooms/Upholstered or furnished,83 m²,2 rooms,Upholstered or furnished
+Studio Eendrachtsweg,3012 LG Rotterdam (Cool),"€1,500 per month",50 m²/1 room/Furnished,50 m²,1 room,Furnished
+Studio Witte de Withstraat,3012 BT Rotterdam (Cool),"€1,250 per month",45 m²/1 room/Furnished,45 m²,1 room,Furnished
+Studio Eendrachtsweg,3012 LG Rotterdam (Cool),"€1,550 per month",50 m²/1 room/Furnished,50 m²,1 room,Furnished
+Studio Witte de Withstraat,3012 BN Rotterdam (Cool),"€1,850 per month",40 m²/1 room/Furnished,40 m²,1 room,Furnished
+Studio Witte de Withstraat,3012 BN Rotterdam (Cool),"€1,800 per month",40 m²/1 room/Furnished,40 m²,1 room,Furnished
+Studio Witte de Withstraat,3012 BN Rotterdam (Cool),"€1,800 per month",45 m²/1 room/Furnished,45 m²,1 room,Furnished
+Apartment Ochterveltstraat,3015 XL Rotterdam (Oude Westen),"€2,250 per month",70 m²/2 rooms/Furnished,70 m²,2 rooms,Furnished
+Studio Witte de Withstraat,3012 BT Rotterdam (Cool),"€1,300 per month",50 m²/1 room/Furnished,50 m²,1 room,Furnished
+Studio Oudedijk,3061 AB Rotterdam (Kralingen West),"€1,275 per month",25 m²/1 room/Furnished,25 m²,1 room,Furnished
+Studio Witte de Withstraat,3012 BN Rotterdam (Cool),"€1,750 per month",40 m²/1 room/Furnished,40 m²,1 room,Furnished
+Studio Witte de Withstraat,3012 BT Rotterdam (Cool),"€1,375 per month",50 m²/1 room/Furnished,50 m²,1 room,Furnished
+Studio Witte de Withstraat,3012 BT Rotterdam (Cool),"€1,250 per month",45 m²/1 room/Furnished,45 m²,1 room,Furnished
+Studio Eendrachtsweg,3012 LG Rotterdam (Cool),"€1,550 per month",50 m²/1 room/Furnished,50 m²,1 room,Furnished
+Studio Eendrachtsweg,3012 LG Rotterdam (Cool),"€1,575 per month",50 m²/1 room/Furnished,50 m²,1 room,Furnished
+Studio Oudedijk,3061 AB Rotterdam (Kralingen West),"€1,375 per month",20 m²/1 room/Furnished,20 m²,1 room,Furnished
+Studio Eendrachtsweg,3012 LG Rotterdam (Cool),"€1,600 per month",50 m²/1 room/Furnished,50 m²,1 room,Furnished
+Studio Eendrachtsweg,3012 LG Rotterdam (Cool),"€1,650 per month",50 m²/1 room/Furnished,50 m²,1 room,Furnished
+Studio Witte de Withstraat,3012 BN Rotterdam (Cool),"€1,700 per month",40 m²/1 room/Furnished,40 m²,1 room,Furnished
+Studio Witte de Withstraat,3012 BN Rotterdam (Cool),"€1,800 per month",40 m²/1 room/Furnished,40 m²,1 room,Furnished
+Apartment Oostplein,3011 KX Rotterdam (Stadsdriehoek),"€1,350 per month",70 m²/3 rooms/1952,70 m²,3 rooms,1952
+Apartment Sichemstraat 2 B,3061 KR Rotterdam (Kralingen West),"€1,550 per month",70 m²/4 rooms/Upholstered,70 m²,4 rooms,Upholstered
+Apartment Bergweg,3037 EC Rotterdam (Oude Noorden),"€1,550 per month",105 m²/4 rooms/Upholstered,105 m²,4 rooms,Upholstered
+Apartment Laan op Zuid,3071 AA Rotterdam (Kop van Zuid),"€2,975 per month",184 m²/5 rooms/Upholstered or furnished,184 m²,5 rooms,Upholstered or furnished
+Apartment Heemraadssingel,3021 NB Rotterdam (Nieuwe Westen),"€1,395 per month",65 m²/3 rooms/Upholstered or furnished,65 m²,3 rooms,Upholstered or furnished
+House Willem Pijperlaan 46,3055 WP Rotterdam (Molenlaankwartier),"€3,250 per month",170 m²/6 rooms/Upholstered,170 m²,6 rooms,Upholstered
+Apartment Dordtselaan,3073 GN Rotterdam (Bloemhof),"€1,250 per month",93 m²/4 rooms/Upholstered,93 m²,4 rooms,Upholstered
+Apartment Blokmakersstraat 11 B,3025 NA Rotterdam (Bospolder),"€1,600 per month",93 m²/3 rooms/Furnished,93 m²,3 rooms,Furnished
+Apartment Bierstraat,3011 XA Rotterdam (Stadsdriehoek),"€1,850 per month",106 m²/1 room/Furnished,106 m²,1 room,Furnished
+House André Gideplaats,3069 EL Rotterdam (Ommoord),"€1,295 per month",85 m²/3 rooms/Furnished,85 m²,3 rooms,Furnished
 House Burgemeester Meineszlaan,3022 BC Rotterdam (Nieuwe Westen),"€2,800 per month",82 m²/5 rooms,82 m²,5 rooms,
 Apartment Stationssingel,3033 HE Rotterdam (Provenierswijk),"€1,595 per month",99 m²/3 rooms/Upholstered,99 m²,3 rooms,Upholstered
 Apartment Avenue Concordia 42 B,3062 LJ Rotterdam (Kralingen Oost),"€1,800 per month",82 m²/3 rooms/Furnished,82 m²,3 rooms,Furnished
