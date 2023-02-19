@@ -1,0 +1,9 @@
+2023-Feb-18-16:26:33,ETL started
+2023-Feb-18-16:26:33,Extract phase Started
+2023-Feb-18-16:28:45,ETL started
+2023-Feb-18-16:28:45,Extract phase Started
+2023-Feb-18-16:28:45,Extract phase Ended
+2023-Feb-18-16:28:45,Transform phase Started
+2023-Feb-18-16:28:45,Transform phase Ended
+2023-Feb-18-16:28:45,Load phase Started
+2023-Feb-18-16:28:45,Load phase Ended

@@ -1,0 +1,23 @@
+2023-Feb-17-14:11:44,ETL started
+2023-Feb-17-14:12:02,Extract phase Started
+2023-Feb-17-14:12:52,Extract phase Started
+2023-Feb-17-14:14:41,Extract phase Started
+2023-Feb-17-14:14:43,Extract phase Ended
+2023-Feb-17-14:16:08,Transform phase Started
+2023-Feb-17-14:16:30,Transform phase Started
+2023-Feb-17-14:18:33,Transform phase Started
+2023-Feb-17-14:22:55,Transform phase Started
+2023-Feb-17-14:22:55,Transform phase Ended
+2023-Feb-17-14:23:27,Load phase Started
+2023-Feb-17-14:23:27,Load phase Ended
+2023-Feb-17-14:23:40,ETL Job Ended
+2023-Feb-17-15:09:01,ETL started
+2023-Feb-17-15:09:01,Extract phase Started
+2023-Feb-17-15:09:02,Extract phase Ended
+2023-Feb-17-15:09:02,Transform phase Started
+2023-Feb-17-15:09:02,Transform phase Ended
+2023-Feb-17-15:09:29,ETL started
+2023-Feb-17-15:09:29,Extract phase Started
+2023-Feb-17-15:09:30,Extract phase Ended
+2023-Feb-17-15:09:30,Transform phase Started
+2023-Feb-17-15:09:30,Transform phase Ended
