@@ -1,0 +1,16 @@
+2023-Mar-20-08:41:37,start_stepstone
+2023-Mar-20-08:41:57,end_stepstone
+2023-Mar-20-08:41:58,start_xing
+2023-Mar-20-08:42:10,end_xing
+2023-Mar-20-08:44:57,start_stepstone
+2023-Mar-20-08:45:14,end_stepstone
+2023-Mar-20-08:45:15,start_xing
+2023-Mar-20-08:45:29,end_xing
+2023-Mar-20-08:47:49,start_stepstone
+2023-Mar-20-08:48:04,end_stepstone
+2023-Mar-20-08:48:05,start_xing
+2023-Mar-20-08:48:17,end_xing
+2023-Mar-20-08:49:57,start_stepstone
+2023-Mar-20-08:50:12,end_stepstone
+2023-Mar-20-08:50:13,start_xing
+2023-Mar-20-08:50:27,end_xing
