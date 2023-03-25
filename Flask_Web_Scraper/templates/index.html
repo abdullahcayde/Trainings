@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+  <head>
+        <style>
+                button {
+                  margin-left: 2em;
+                }
+                #container 
+                {
+                        text-align: left;
+                }
+        </style>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Random Bee App</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css">
+  </head>
+  <section class="hero is-dark is-bold">
+        <div class="hero-body">
+          <p class="title">
+            Random Bee App!
+          </p>
+          <h2 class="subtitle">
+            What will it be today ?
+            <p>   </p>
+            <button class='button is-large' onclick="window.location.reload();">GO!</button>
+          </h2>
+        </div>
+                
+        </div>
+      </section>
+  <body>
+  <section class="section">
+    <div class="container">
+      <div class="content is-large">
+        <h1> {{ bee.name }} </h1>
+        <h4> {{ bee.abv }} </h4>
+        <p> {{ bee.desc }} </p>
+        <h5> Dinner Suggestion </h5>
+        <p> {{ bee.foodpair }} </p>
+    </div>
+  </section>
+  </body>
+</html>

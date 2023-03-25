@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<style>
+
+</style>
+  <body>
+    <h1>Web Scraping Örneği</h1>
+    <p>Butona tıkladığınızda web scraping işlemi başlayacaktır:</p>
+    <!-- Form Baslangic -->  
+    <div class="form">
+        <form action="/scrape" method="POST">
+            <h5>Enter Your Job Name</h5>
+            <input type="text" name="job_name" id="job_name">
+            <!-- Form Button-->
+            <input type="submit" value="Web Scraping Start" onclick="return confirm('Are you sure?')" >        
+        </form>
+    </div>
+    <!-- Calismadi ???? -->
+    <button onclick="scrape()">Web Scraping Başlat</button>
+  
+    <script>
+      function scrape() {
+        var xhr = new XMLHttpRequest();
+        xhr.open("GET", "/scrape", true);
+        xhr.send();
+        alert("Web scraping işlemi başladı");
+      }
+    </script>
+    <!-- Yukariya ait Calismadi ???? -->
+  </body>
+</body>
+  {% if df01.shape[0] == 0 %}
+  <h1> Data Frame bos</h1>
+  {% else %}
+<style>
+  td {
+      border: solid 2px lightgrey;
+  }
+  tr:nth-child(even) {
+  background-color: #D6EEEE;
+}
+  </style>
+  <table style="border: 5px solid #100e0e; border-collapse: collapse">
+  <tr>
+      <th>index</th>
+      <th>Jobtitle</th>
+      <th>Publish</th>
+      <th>Company</th>
+      <th>City</th>
+  </tr>
+  {% for i in df01.index %}
+      <tr>
+          <td>{{ df01.index[i] + 1 }}</td>
+          <td>{{ df01.job_title[i] }}</td>
+          <td>{{ df01.publish[i] }}</td>
+          <td>{{ df01.company[i] }}</td>
+          <td>{{ df01.city[i] }}</td>
+      </tr>
+  {% endfor %}
+  {% endif %}
+</table>
+  </html>
